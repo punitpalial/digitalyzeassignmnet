@@ -1,0 +1,157 @@
+Student ID,1A,1B,2A,2B,3,4A,4B
+5303312,bib11 (Sec 1),bib11 (Sec 1),---,---,bib11 (Sec 1),bib11 (Sec 1),---
+5361789,---,techdigit (Sec 1),deeng151 (Sec 1),bib12 (Sec 2),techgraphic (Sec 1),deeng151 (Sec 1),---
+5361796,---,soc9 (Sec 2),pehs (Sec 1),---,---,---,bib9 (Sec 1)
+5361797,lansp1 (Sec 1),soc9 (Sec 2),soc9 (Sec 1),---,---,bib9 (Sec 1),bib9 (Sec 1)
+5361798,pehs (Sec 2),soc9 (Sec 2),pehs (Sec 1),---,---,bib9 (Sec 1),scibio (Sec 1)
+5361799,---,techdigit (Sec 1),---,soc9 (Sec 1),techgraphic (Sec 1),bib9 (Sec 1),---
+5361800,matgeom (Sec 2),---,scibio (Sec 1),matgeom (Sec 2),---,---,scibio (Sec 1)
+5361801,soc9 (Sec 2),bib9 (Sec 2),soc9 (Sec 1),---,---,---,---
+5361802,lansp1 (Sec 1),bib9 (Sec 2),pehs (Sec 1),soc9 (Sec 1),matgeomh (Sec 1),eng9h (Sec 1),lansp1 (Sec 1)
+5361803,---,---,techgraphic (Sec 1),---,soc9 (Sec 1),bib9 (Sec 1),---
+5361804,soc9 (Sec 2),bib9 (Sec 2),---,pehs (Sec 1),eng9h (Sec 1),---,bib9 (Sec 1)
+5361805,---,---,scibio (Sec 1),---,matgeomh (Sec 1),---,scibio (Sec 1)
+5361806,soc9 (Sec 2),bib9 (Sec 2),---,---,eng9h (Sec 1),eng9h (Sec 1),---
+5361807,pehs (Sec 2),---,---,soc9 (Sec 1),---,bib9 (Sec 1),---
+5361808,---,bib9 (Sec 2),soc9 (Sec 1),---,eng9h (Sec 1),eng9h (Sec 1),scibio (Sec 1)
+5361809,---,---,---,---,soc9 (Sec 1),---,bib9 (Sec 1)
+5361810,---,bib9 (Sec 2),scibio (Sec 1),---,soc9 (Sec 1),eng9h (Sec 1),bib9 (Sec 1)
+5361811,---,---,---,---,matgeomh (Sec 1),---,---
+5361812,---,---,---,---,matgeomh (Sec 1),---,---
+5361813,---,soc9 (Sec 2),---,pehs (Sec 1),techgraphic (Sec 1),---,bib9 (Sec 1)
+5361814,---,soc9 (Sec 2),scibio (Sec 1),---,---,bib9 (Sec 1),scibio (Sec 1)
+5361816,---,bib9 (Sec 2),soc9 (Sec 1),soc9 (Sec 1),---,eng9h (Sec 1),---
+5361817,pehs (Sec 2),---,scibio (Sec 1),soc9 (Sec 1),---,bib9 (Sec 1),---
+5361818,soc9 (Sec 2),bib9 (Sec 2),pehs (Sec 1),pehs (Sec 1),matgeomh (Sec 1),---,---
+5361819,lansp1 (Sec 1),---,soc9 (Sec 1),---,---,---,bib9 (Sec 1)
+5361820,soc9 (Sec 2),---,pehs (Sec 1),---,---,bib9 (Sec 1),---
+5361821,matgeom (Sec 2),---,---,matgeom (Sec 2),eng9h (Sec 1),eng9h (Sec 1),scibio (Sec 1)
+5361822,---,soc9 (Sec 2),---,matgeom (Sec 2),eng9h (Sec 1),---,bib9 (Sec 1)
+5361825,---,---,---,pehs (Sec 1),soc9 (Sec 1),bib9 (Sec 1),bib9 (Sec 1)
+5361827,matalg2 (Sec 2),matalg2 (Sec 2),bib10 (Sec 2),matalg2 (Sec 1),---,matalg2 (Sec 2),matalg2 (Sec 1)
+5361828,---,scierth (Sec 1),---,---,---,techdigit (Sec 1),bib10 (Sec 1)
+5361830,bib10 (Sec 1),---,lansp2 (Sec 2),bib10 (Sec 1),---,scierth (Sec 1),matalg2h (Sec 1)
+5361831,matgeom (Sec 2),---,lansp2 (Sec 2),---,scierth (Sec 1),---,bib10 (Sec 1)
+5361832,---,---,scichem10h (Sec 2),---,bib10 (Sec 1),---,scichem10h (Sec 2)
+5361833,lansp1 (Sec 1),scichem10h (Sec 2),bib10 (Sec 2),bib10 (Sec 1),---,---,---
+5361834,---,scichem10h (Sec 2),lansp2 (Sec 2),lansp2 (Sec 1),bib10 (Sec 1),---,eng10h (Sec 1)
+5361835,matgeom (Sec 2),techdigit (Sec 1),techgraphic (Sec 1),bib10 (Sec 1),scierth (Sec 1),---,---
+5361836,matgeom (Sec 2),scierth (Sec 1),techgraphic (Sec 1),lansp2 (Sec 1),bib10 (Sec 1),techdigit (Sec 1),---
+5361838,bib10 (Sec 1),---,matalg2 (Sec 1),matalg2 (Sec 1),---,matalg2 (Sec 1),matalg2 (Sec 1)
+5361840,bib10 (Sec 1),scierth (Sec 1),---,bib10 (Sec 1),bib10 (Sec 1),lansp2 (Sec 1),---
+5361842,---,lansp2 (Sec 1),pehs (Sec 1),bib10 (Sec 1),bib10 (Sec 1),---,matalg2h (Sec 1)
+5361843,matalg2 (Sec 1),matalg2 (Sec 2),bib10 (Sec 2),lansp2 (Sec 1),matalg2 (Sec 2),matalg2 (Sec 1),eng10h (Sec 1)
+5361844,---,scichem10h (Sec 2),---,---,---,scichem10h (Sec 1),eng10h (Sec 1)
+5361845,matalg2 (Sec 2),lansp2 (Sec 1),bib10 (Sec 2),matalg2 (Sec 1),matalg2 (Sec 2),matalg2 (Sec 2),matalg2 (Sec 2)
+5361846,bib10 (Sec 1),---,---,---,---,scichem10h (Sec 1),eng10h (Sec 1)
+5361847,matalg2 (Sec 1),matalg2 (Sec 1),matalg2 (Sec 2),matalg2 (Sec 1),---,lansp2 (Sec 1),bib10 (Sec 1)
+5361851,matalg2 (Sec 1),matalg2 (Sec 1),matalg2 (Sec 1),matalg2 (Sec 2),bib10 (Sec 1),---,matalg2 (Sec 2)
+5361853,bib10 (Sec 1),matalg2 (Sec 2),matalg2 (Sec 1),matalg2 (Sec 1),matalg2 (Sec 2),matalg2 (Sec 1),matalg2 (Sec 1)
+5361856,matgeom (Sec 2),scierth (Sec 1),---,lansp2 (Sec 1),techgraphic (Sec 1),scierth (Sec 1),bib10 (Sec 1)
+5361857,bib10 (Sec 1),---,bib10 (Sec 2),bib10 (Sec 1),bib10 (Sec 1),lansp2 (Sec 1),matalg2h (Sec 1)
+5361858,---,---,---,lansp2 (Sec 1),---,lansp2 (Sec 1),bib10 (Sec 1)
+5361859,---,lansp2 (Sec 1),bib10 (Sec 2),---,---,---,bib10 (Sec 1)
+5361862,matalg2 (Sec 2),matalg2 (Sec 2),bib10 (Sec 2),lansp2 (Sec 1),---,matalg2 (Sec 1),matalg2 (Sec 1)
+5361863,---,---,bib10 (Sec 2),matgeom (Sec 2),scierth (Sec 1),---,bib10 (Sec 1)
+5361864,bib10 (Sec 1),scierth (Sec 1),---,---,scierth (Sec 1),---,lansp1 (Sec 1)
+5361865,bib10 (Sec 1),---,---,matgeom (Sec 2),scierth (Sec 1),scierth (Sec 1),bib10 (Sec 1)
+5361867,---,scichem10h (Sec 2),scichem10h (Sec 2),bib10 (Sec 1),---,lansp2 (Sec 1),eng10h (Sec 1)
+5361868,matalg2 (Sec 2),matalg2 (Sec 1),bib10 (Sec 2),matalg2 (Sec 2),---,matalg2 (Sec 1),matalg2 (Sec 1)
+5361869,---,---,lansp2 (Sec 2),---,---,---,bib10 (Sec 1)
+5361870,bib10 (Sec 1),---,---,---,---,scichem10h (Sec 1),eng10h (Sec 1)
+5361871,bib10 (Sec 1),---,bib10 (Sec 2),matalg2 (Sec 1),---,matalg2 (Sec 1),bib10 (Sec 1)
+5361872,---,matalg2 (Sec 1),matalg2 (Sec 2),matalg2 (Sec 2),bib11 (Sec 1),matalg2 (Sec 2),matalg2 (Sec 2)
+5361873,bib11 (Sec 1),bib11 (Sec 1),lansp2 (Sec 2),bib11 (Sec 2),scimabio (Sec 1),bib11 (Sec 1),---
+5361874,matalg2 (Sec 1),---,matalg2 (Sec 1),matalg2 (Sec 1),scimabio (Sec 1),scimabio (Sec 1),bib11 (Sec 2)
+5361876,---,---,dewciv1 (Sec 1),dewciv1 (Sec 1),---,---,---
+5361877,---,---,---,dewciv1 (Sec 1),pehealthhs (Sec 3),bib11 (Sec 1),---
+5361878,matalg2 (Sec 2),bib11 (Sec 1),matalg2 (Sec 1),bib11 (Sec 2),---,bib11 (Sec 1),sciphy (Sec 1)
+5361879,matalg2 (Sec 1),matalg2 (Sec 2),---,---,bib11 (Sec 1),---,scichem10h (Sec 2)
+5361880,finlit (Sec 2),---,scichem10h (Sec 2),bib11 (Sec 2),finlit (Sec 2),finlit (Sec 1),bib11 (Sec 2)
+5361881,bib11 (Sec 1),---,---,soc11 (Sec 1),finlit (Sec 2),scierth (Sec 1),bib11 (Sec 2)
+5361882,---,bib11 (Sec 1),---,soc11 (Sec 1),scimabio (Sec 1),scimabio (Sec 1),---
+5361883,bib11 (Sec 1),---,dewciv1 (Sec 1),desocip (Sec 1),---,bib11 (Sec 1),desocip (Sec 1)
+5361884,matalg2 (Sec 2),---,---,soc11 (Sec 1),matalg2 (Sec 2),bib11 (Sec 1),---
+5361885,bib11 (Sec 1),lansp2 (Sec 1),techgraphic (Sec 1),dewciv1 (Sec 1),scimabio (Sec 1),scimabio (Sec 1),---
+5361886,---,soc11 (Sec 1),---,---,---,scimabio (Sec 1),bib11 (Sec 2)
+5361887,bib11 (Sec 1),matalg2 (Sec 1),matalg2 (Sec 2),---,matalg2 (Sec 2),---,lansp1 (Sec 1)
+5361888,---,soc11 (Sec 1),---,matalg2 (Sec 2),scimabio (Sec 1),matalg2 (Sec 2),bib11 (Sec 2)
+5361889,---,---,finlit (Sec 2),---,bib11 (Sec 1),finlit (Sec 1),bib11 (Sec 2)
+5361890,---,soc11 (Sec 1),matalg2 (Sec 1),sciphy (Sec 1),bib11 (Sec 1),---,matalg2 (Sec 1)
+5361891,---,---,mathalgiii (Sec 1),bib11 (Sec 2),---,finlit (Sec 1),sciphy (Sec 1)
+5361892,finlit (Sec 2),soc11 (Sec 1),finlit (Sec 2),soc11 (Sec 1),finlit (Sec 2),matalg2 (Sec 2),bib11 (Sec 2)
+5361893,---,bib11 (Sec 1),---,sciphy (Sec 1),bib11 (Sec 1),bib11 (Sec 1),matalg2 (Sec 2)
+5361895,pehs (Sec 2),bib11 (Sec 1),---,sciphy (Sec 1),pehealthhs (Sec 3),---,sciphy (Sec 1)
+5361896,bib11 (Sec 1),bib11 (Sec 1),scichem10h (Sec 2),sciphy (Sec 1),bib11 (Sec 1),techdigit (Sec 1),scichem10h (Sec 2)
+5361897,---,---,dewciv1 (Sec 1),---,pehealthhs (Sec 3),bib11 (Sec 1),bib11 (Sec 2)
+5361898,bib11 (Sec 1),soc11 (Sec 1),---,bib11 (Sec 2),bib11 (Sec 1),bib11 (Sec 1),bib11 (Sec 2)
+5361899,finlit (Sec 2),bib11 (Sec 1),finlit (Sec 2),bib11 (Sec 2),bib11 (Sec 1),finlit (Sec 1),sciphy (Sec 1)
+5361900,finlit (Sec 2),---,finlit (Sec 2),---,---,scichem10h (Sec 1),bib11 (Sec 2)
+5361901,matalg2 (Sec 1),bib11 (Sec 1),---,bib11 (Sec 2),matalg2 (Sec 2),matalg2 (Sec 2),sciphy (Sec 1)
+5361902,---,---,finlit (Sec 2),bib11 (Sec 2),finlit (Sec 2),bib11 (Sec 1),bib11 (Sec 2)
+5361903,mathalgiii (Sec 1),bib11 (Sec 1),mathalgiii (Sec 1),soc11 (Sec 1),pehealthhs (Sec 3),---,---
+5361904,matalg2 (Sec 2),bib11 (Sec 1),lansp2 (Sec 2),pehs (Sec 1),---,---,matalg2 (Sec 1)
+5361905,bib11 (Sec 1),---,---,bib11 (Sec 2),bib11 (Sec 1),bib11 (Sec 1),bib11 (Sec 2)
+5361906,bib12 (Sec 1),---,---,desocip (Sec 1),---,---,desocip (Sec 1)
+5361907,---,---,deeng151 (Sec 1),bib12 (Sec 2),bib12 (Sec 2),---,---
+5361908,---,techdigit (Sec 1),bib12 (Sec 2),---,techgraphic (Sec 1),---,---
+5361909,mathalgiii (Sec 1),techdigit (Sec 1),bib12 (Sec 2),sciphy (Sec 1),---,deeng151 (Sec 1),---
+5361910,---,scichem10h (Sec 2),scichem10h (Sec 2),bib12 (Sec 2),---,scichem10h (Sec 1),scichem10h (Sec 2)
+5361911,---,---,dewciv1 (Sec 1),dewciv1 (Sec 1),bib12 (Sec 2),---,---
+5361912,bib12 (Sec 1),bib12 (Sec 1),deeng151 (Sec 1),desocip (Sec 1),bib12 (Sec 2),---,desocip (Sec 1)
+5361913,---,---,bib12 (Sec 2),---,bib12 (Sec 2),deeng151 (Sec 1),scichem10h (Sec 2)
+5361914,---,---,bib12 (Sec 2),---,techgraphic (Sec 1),---,matalg2h (Sec 1)
+5361915,bib12 (Sec 1),techdigit (Sec 1),bib12 (Sec 2),---,bib12 (Sec 2),---,---
+5361917,---,bib12 (Sec 1),bib12 (Sec 2),bib12 (Sec 2),scimabio (Sec 1),scimabio (Sec 1),---
+5361918,mathalgiii (Sec 1),bib12 (Sec 1),mathalgiii (Sec 1),bib12 (Sec 2),---,---,---
+5361919,---,---,deeng151 (Sec 1),bib12 (Sec 2),---,---,---
+5361920,---,bib12 (Sec 1),bib12 (Sec 2),---,bib12 (Sec 2),finlit (Sec 1),---
+5361921,---,bib12 (Sec 1),deeng151 (Sec 1),---,---,deeng151 (Sec 1),---
+5361922,bib12 (Sec 1),bib12 (Sec 1),deeng151 (Sec 1),---,---,scichem10h (Sec 1),---
+5361923,---,techdigit (Sec 1),deeng151 (Sec 1),bib12 (Sec 2),---,matapcalcab (Sec 1),---
+5361924,bib12 (Sec 1),---,---,desocip (Sec 1),---,deeng151 (Sec 1),desocip (Sec 1)
+5361925,---,---,bib12 (Sec 2),---,---,---,matalg2h (Sec 1)
+5361926,mathalgiii (Sec 1),bib12 (Sec 1),---,---,---,---,---
+5361927,---,bib12 (Sec 1),bib12 (Sec 2),---,bib12 (Sec 2),deeng151 (Sec 1),---
+5361928,---,---,bib12 (Sec 2),---,bib12 (Sec 2),matapcalcab (Sec 1),matapcalcab (Sec 1)
+5361929,mathalgiii (Sec 1),bib12 (Sec 1),mathalgiii (Sec 1),---,scimabio (Sec 1),scimabio (Sec 1),---
+5361930,bib12 (Sec 1),---,bib12 (Sec 2),bib12 (Sec 2),techgraphic (Sec 1),matapcalcab (Sec 1),matapcalcab (Sec 1)
+5361932,---,---,---,bib12 (Sec 2),techgraphic (Sec 1),---,matalg2h (Sec 1)
+5361933,mathalgiii (Sec 1),bib12 (Sec 1),finlit (Sec 2),---,---,---,---
+5361934,bib12 (Sec 1),scichem10h (Sec 2),---,---,pehealthhs (Sec 3),scichem10h (Sec 1),---
+5361935,bib12 (Sec 1),bib12 (Sec 1),bib12 (Sec 2),bib12 (Sec 2),bib12 (Sec 2),---,---
+5361936,---,bib12 (Sec 1),scichem10h (Sec 2),bib12 (Sec 2),---,---,scichem10h (Sec 2)
+5361937,---,techdigit (Sec 1),---,bib12 (Sec 2),---,techdigit (Sec 1),matapcalcab (Sec 1)
+5407480,---,matalg2 (Sec 2),matalg2 (Sec 2),matalg2 (Sec 2),bib11 (Sec 1),techdigit (Sec 1),matalg2 (Sec 2)
+5407481,soc9 (Sec 2),techdigit (Sec 1),scibio (Sec 1),pehs (Sec 1),pehealthhs (Sec 3),---,bib9 (Sec 1)
+5407488,---,---,techgraphic (Sec 1),---,bib10 (Sec 1),techdigit (Sec 1),---
+5407494,bib10 (Sec 1),---,---,bib10 (Sec 1),bib10 (Sec 1),---,eng10h (Sec 1)
+5407497,pehs (Sec 2),---,bib10 (Sec 2),bib10 (Sec 1),scierth (Sec 1),---,---
+5407498,bib12 (Sec 1),---,dewciv1 (Sec 1),dewciv1 (Sec 1),---,scimabio (Sec 1),---
+5407499,matalg2 (Sec 1),matalg2 (Sec 1),matalg2 (Sec 1),---,bib11 (Sec 1),matalg2 (Sec 2),matalg2 (Sec 1)
+5407500,bib11 (Sec 1),lansp2 (Sec 1),dewciv1 (Sec 1),bib11 (Sec 2),---,lansp2 (Sec 1),matalg2h (Sec 1)
+5407506,mathalgiii (Sec 1),---,mathalgiii (Sec 1),sciphy (Sec 1),bib12 (Sec 2),---,sciphy (Sec 1)
+5407517,pehs (Sec 2),matalg2 (Sec 2),matalg2 (Sec 2),bib10 (Sec 1),bib10 (Sec 1),---,matalg2 (Sec 1)
+5407518,---,scierth (Sec 1),lansp2 (Sec 2),bib10 (Sec 1),---,lansp2 (Sec 1),bib10 (Sec 1)
+5407519,bib10 (Sec 1),matalg2 (Sec 1),matalg2 (Sec 2),matalg2 (Sec 2),matalg2 (Sec 2),matalg2 (Sec 1),matalg2 (Sec 2)
+5407520,---,bib9 (Sec 2),techgraphic (Sec 1),soc9 (Sec 1),eng9h (Sec 1),eng9h (Sec 1),bib9 (Sec 1)
+5407527,bib12 (Sec 1),---,mathalgiii (Sec 1),desocip (Sec 1),soc9 (Sec 1),deeng151 (Sec 1),desocip (Sec 1)
+5407543,---,---,matalg2 (Sec 2),matalg2 (Sec 2),bib10 (Sec 1),scierth (Sec 1),matalg2 (Sec 2)
+5407554,matgeom (Sec 2),scierth (Sec 1),---,matgeom (Sec 2),scierth (Sec 1),scierth (Sec 1),bib10 (Sec 1)
+5407556,bib11 (Sec 1),bib11 (Sec 1),techgraphic (Sec 1),dewciv1 (Sec 1),techgraphic (Sec 1),---,---
+5407560,bib10 (Sec 1),---,bib10 (Sec 2),bib10 (Sec 1),bib10 (Sec 1),scierth (Sec 1),lansp1 (Sec 1)
+5407561,finlit (Sec 2),---,dewciv1 (Sec 1),sciphy (Sec 1),finlit (Sec 2),bib11 (Sec 1),sciphy (Sec 1)
+5407564,bib12 (Sec 1),scichem10h (Sec 2),scichem10h (Sec 2),dewciv1 (Sec 1),---,scichem10h (Sec 1),scichem10h (Sec 2)
+5407584,pehs (Sec 2),---,---,---,soc9 (Sec 1),bib9 (Sec 1),lansp1 (Sec 1)
+5407590,---,---,---,---,matgeomh (Sec 1),---,---
+5407593,---,---,finlit (Sec 2),bib11 (Sec 2),finlit (Sec 2),finlit (Sec 1),---
+5409913,finlit (Sec 2),soc11 (Sec 1),---,bib11 (Sec 2),finlit (Sec 2),finlit (Sec 1),---
+5419610,bib12 (Sec 1),---,---,---,bib12 (Sec 2),---,---
+5424569,bib11 (Sec 1),lansp2 (Sec 1),scibio (Sec 1),soc11 (Sec 1),---,---,scibio (Sec 1)
+5424570,lansp1 (Sec 1),bib9 (Sec 2),---,soc9 (Sec 1),matgeomh (Sec 1),techdigit (Sec 1),---
+5432621,bib11 (Sec 1),soc11 (Sec 1),mathalgiii (Sec 1),soc11 (Sec 1),---,---,---
+5434946,---,---,soc9 (Sec 1),matgeom (Sec 2),soc9 (Sec 1),bib9 (Sec 1),bib9 (Sec 1)
+5439293,lansp1 (Sec 1),soc9 (Sec 2),pehs (Sec 1),pehs (Sec 1),pehealthhs (Sec 3),bib9 (Sec 1),lansp1 (Sec 1)
+5510555,lansp1 (Sec 1),bib9 (Sec 2),soc9 (Sec 1),---,eng9h (Sec 1),---,lansp1 (Sec 1)
+5593175,finlit (Sec 2),lansp2 (Sec 1),---,lansp2 (Sec 1),bib12 (Sec 2),---,---
+5642283,soc9 (Sec 2),bib9 (Sec 2),---,---,---,---,---

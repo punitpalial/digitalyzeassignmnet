@@ -1,0 +1,5922 @@
+{
+  "5303312": [
+    {
+      "Student ID": "5303312",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5303312",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5303312",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5303312",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361417
+    }
+  ],
+  "5361789": [
+    {
+      "Student ID": "5361789",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361789",
+      "Course Code": "deeng151",
+      "Course Title": "Dual_Enrollment_English_151",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361474
+    },
+    {
+      "Student ID": "5361789",
+      "Course Code": "deeng151",
+      "Course Title": "Dual_Enrollment_English_151",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361474
+    },
+    {
+      "Student ID": "5361789",
+      "Course Code": "techdigit",
+      "Course Title": "Digital_Imaging_&_Editing",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361516
+    },
+    {
+      "Student ID": "5361789",
+      "Course Code": "techgraphic",
+      "Course Title": "Graphic_Design",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361796": [
+    {
+      "Student ID": "5361796",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361796",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5361796",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361797": [
+    {
+      "Student ID": "5361797",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361797",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361797",
+      "Course Code": "lansp1",
+      "Course Title": "Spanish_I",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361797",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361492
+    },
+    {
+      "Student ID": "5361797",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361798": [
+    {
+      "Student ID": "5361798",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361798",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5361798",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5361798",
+      "Course Code": "scibio",
+      "Course Title": "Biology",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5361798",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361799": [
+    {
+      "Student ID": "5361799",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361799",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361492
+    },
+    {
+      "Student ID": "5361799",
+      "Course Code": "techdigit",
+      "Course Title": "Digital_Imaging_&_Editing",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361516
+    },
+    {
+      "Student ID": "5361799",
+      "Course Code": "techgraphic",
+      "Course Title": "Graphic_Design",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361800": [
+    {
+      "Student ID": "5361800",
+      "Course Code": "matgeom",
+      "Course Title": "Geometry",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361800",
+      "Course Code": "matgeom",
+      "Course Title": "Geometry",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361800",
+      "Course Code": "scibio",
+      "Course Title": "Biology",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5361800",
+      "Course Code": "scibio",
+      "Course Title": "Biology",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361409
+    }
+  ],
+  "5361801": [
+    {
+      "Student ID": "5361801",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361801",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361492
+    },
+    {
+      "Student ID": "5361801",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361802": [
+    {
+      "Student ID": "5361802",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361802",
+      "Course Code": "eng9h",
+      "Course Title": "English_9_Honors",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5322089
+    },
+    {
+      "Student ID": "5361802",
+      "Course Code": "lansp1",
+      "Course Title": "Spanish_I",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361802",
+      "Course Code": "lansp1",
+      "Course Title": "Spanish_I",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361802",
+      "Course Code": "matgeomh",
+      "Course Title": "Geometry_Honors",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361802",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5361802",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361803": [
+    {
+      "Student ID": "5361803",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361803",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361492
+    },
+    {
+      "Student ID": "5361803",
+      "Course Code": "techgraphic",
+      "Course Title": "Graphic_Design",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361804": [
+    {
+      "Student ID": "5361804",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361804",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361804",
+      "Course Code": "eng9h",
+      "Course Title": "English_9_Honors",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5322089
+    },
+    {
+      "Student ID": "5361804",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5361804",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361805": [
+    {
+      "Student ID": "5361805",
+      "Course Code": "matgeomh",
+      "Course Title": "Geometry_Honors",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361805",
+      "Course Code": "scibio",
+      "Course Title": "Biology",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5361805",
+      "Course Code": "scibio",
+      "Course Title": "Biology",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361409
+    }
+  ],
+  "5361806": [
+    {
+      "Student ID": "5361806",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361806",
+      "Course Code": "eng9h",
+      "Course Title": "English_9_Honors",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5322089
+    },
+    {
+      "Student ID": "5361806",
+      "Course Code": "eng9h",
+      "Course Title": "English_9_Honors",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5322089
+    },
+    {
+      "Student ID": "5361806",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361807": [
+    {
+      "Student ID": "5361807",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361807",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5361807",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361808": [
+    {
+      "Student ID": "5361808",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361808",
+      "Course Code": "eng9h",
+      "Course Title": "English_9_Honors",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5322089
+    },
+    {
+      "Student ID": "5361808",
+      "Course Code": "eng9h",
+      "Course Title": "English_9_Honors",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5322089
+    },
+    {
+      "Student ID": "5361808",
+      "Course Code": "scibio",
+      "Course Title": "Biology",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5361808",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361809": [
+    {
+      "Student ID": "5361809",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361809",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361810": [
+    {
+      "Student ID": "5361810",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361810",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361810",
+      "Course Code": "eng9h",
+      "Course Title": "English_9_Honors",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5322089
+    },
+    {
+      "Student ID": "5361810",
+      "Course Code": "scibio",
+      "Course Title": "Biology",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5361810",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361811": [
+    {
+      "Student ID": "5361811",
+      "Course Code": "matgeomh",
+      "Course Title": "Geometry_Honors",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5407259
+    }
+  ],
+  "5361812": [
+    {
+      "Student ID": "5361812",
+      "Course Code": "matgeomh",
+      "Course Title": "Geometry_Honors",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5407259
+    }
+  ],
+  "5361813": [
+    {
+      "Student ID": "5361813",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361813",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5361813",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361492
+    },
+    {
+      "Student ID": "5361813",
+      "Course Code": "techgraphic",
+      "Course Title": "Graphic_Design",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361814": [
+    {
+      "Student ID": "5361814",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361814",
+      "Course Code": "scibio",
+      "Course Title": "Biology",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5361814",
+      "Course Code": "scibio",
+      "Course Title": "Biology",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5361814",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361816": [
+    {
+      "Student ID": "5361816",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361816",
+      "Course Code": "eng9h",
+      "Course Title": "English_9_Honors",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5322089
+    },
+    {
+      "Student ID": "5361816",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361492
+    },
+    {
+      "Student ID": "5361816",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361817": [
+    {
+      "Student ID": "5361817",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361817",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5361817",
+      "Course Code": "scibio",
+      "Course Title": "Biology",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5361817",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361818": [
+    {
+      "Student ID": "5361818",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361818",
+      "Course Code": "matgeomh",
+      "Course Title": "Geometry_Honors",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361818",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5361818",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5361818",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361819": [
+    {
+      "Student ID": "5361819",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361819",
+      "Course Code": "lansp1",
+      "Course Title": "Spanish_I",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361819",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361820": [
+    {
+      "Student ID": "5361820",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361820",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5361820",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361821": [
+    {
+      "Student ID": "5361821",
+      "Course Code": "eng9h",
+      "Course Title": "English_9_Honors",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5322089
+    },
+    {
+      "Student ID": "5361821",
+      "Course Code": "eng9h",
+      "Course Title": "English_9_Honors",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5322089
+    },
+    {
+      "Student ID": "5361821",
+      "Course Code": "matgeom",
+      "Course Title": "Geometry",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361821",
+      "Course Code": "matgeom",
+      "Course Title": "Geometry",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361821",
+      "Course Code": "scibio",
+      "Course Title": "Biology",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361409
+    }
+  ],
+  "5361822": [
+    {
+      "Student ID": "5361822",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361822",
+      "Course Code": "eng9h",
+      "Course Title": "English_9_Honors",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5322089
+    },
+    {
+      "Student ID": "5361822",
+      "Course Code": "matgeom",
+      "Course Title": "Geometry",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361822",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361825": [
+    {
+      "Student ID": "5361825",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361825",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361825",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5361825",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361492
+    }
+  ],
+  "5361827": [
+    {
+      "Student ID": "5361827",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361827",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361827",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361827",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361827",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361827",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "4A",
+      "Professor ID": 5361420
+    }
+  ],
+  "5361828": [
+    {
+      "Student ID": "5361828",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361828",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5361828",
+      "Course Code": "techdigit",
+      "Course Title": "Digital_Imaging_&_Editing",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361830": [
+    {
+      "Student ID": "5361830",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361830",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361830",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361830",
+      "Course Code": "matalg2h",
+      "Course Title": "Alg_II_Honors",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361830",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361409
+    }
+  ],
+  "5361831": [
+    {
+      "Student ID": "5361831",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361831",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361831",
+      "Course Code": "matgeom",
+      "Course Title": "Geometry",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361831",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361409
+    }
+  ],
+  "5361832": [
+    {
+      "Student ID": "5361832",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361832",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361498
+    },
+    {
+      "Student ID": "5361832",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361498
+    }
+  ],
+  "5361833": [
+    {
+      "Student ID": "5361833",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361833",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361833",
+      "Course Code": "lansp1",
+      "Course Title": "Spanish_I",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361833",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361498
+    }
+  ],
+  "5361834": [
+    {
+      "Student ID": "5361834",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361834",
+      "Course Code": "eng10h",
+      "Course Title": "English_10_Honors",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361474
+    },
+    {
+      "Student ID": "5361834",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361834",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361834",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361498
+    }
+  ],
+  "5361835": [
+    {
+      "Student ID": "5361835",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361835",
+      "Course Code": "matgeom",
+      "Course Title": "Geometry",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361835",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5361835",
+      "Course Code": "techdigit",
+      "Course Title": "Digital_Imaging_&_Editing",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361516
+    },
+    {
+      "Student ID": "5361835",
+      "Course Code": "techgraphic",
+      "Course Title": "Graphic_Design",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361836": [
+    {
+      "Student ID": "5361836",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361836",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361836",
+      "Course Code": "matgeom",
+      "Course Title": "Geometry",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361836",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5361836",
+      "Course Code": "techdigit",
+      "Course Title": "Digital_Imaging_&_Editing",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361516
+    },
+    {
+      "Student ID": "5361836",
+      "Course Code": "techgraphic",
+      "Course Title": "Graphic_Design",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361838": [
+    {
+      "Student ID": "5361838",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361838",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361838",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361838",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361838",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361380
+    }
+  ],
+  "5361840": [
+    {
+      "Student ID": "5361840",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361840",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361840",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361840",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361840",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361409
+    }
+  ],
+  "5361842": [
+    {
+      "Student ID": "5361842",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361842",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361842",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361842",
+      "Course Code": "matalg2h",
+      "Course Title": "Alg_II_Honors",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361842",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361411
+    }
+  ],
+  "5361843": [
+    {
+      "Student ID": "5361843",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361843",
+      "Course Code": "eng10h",
+      "Course Title": "English_10_Honors",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361474
+    },
+    {
+      "Student ID": "5361843",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361843",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361843",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361843",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361843",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361420
+    }
+  ],
+  "5361844": [
+    {
+      "Student ID": "5361844",
+      "Course Code": "eng10h",
+      "Course Title": "English_10_Honors",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361474
+    },
+    {
+      "Student ID": "5361844",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361498
+    },
+    {
+      "Student ID": "5361844",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361498
+    }
+  ],
+  "5361845": [
+    {
+      "Student ID": "5361845",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361845",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361845",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361845",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361845",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361845",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "4A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361845",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361420
+    }
+  ],
+  "5361846": [
+    {
+      "Student ID": "5361846",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361846",
+      "Course Code": "eng10h",
+      "Course Title": "English_10_Honors",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361474
+    },
+    {
+      "Student ID": "5361846",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361498
+    }
+  ],
+  "5361847": [
+    {
+      "Student ID": "5361847",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361847",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361847",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361847",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361847",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361847",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361420
+    }
+  ],
+  "5361851": [
+    {
+      "Student ID": "5361851",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361851",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361851",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361851",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361851",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361851",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361420
+    }
+  ],
+  "5361853": [
+    {
+      "Student ID": "5361853",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361853",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361853",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361853",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361853",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361853",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361853",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361420
+    }
+  ],
+  "5361856": [
+    {
+      "Student ID": "5361856",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361856",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361856",
+      "Course Code": "matgeom",
+      "Course Title": "Geometry",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361856",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5361856",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5361856",
+      "Course Code": "techgraphic",
+      "Course Title": "Graphic_Design",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361857": [
+    {
+      "Student ID": "5361857",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361857",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361857",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361857",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361857",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361857",
+      "Course Code": "matalg2h",
+      "Course Title": "Alg_II_Honors",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5407259
+    }
+  ],
+  "5361858": [
+    {
+      "Student ID": "5361858",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361858",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361858",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361540
+    }
+  ],
+  "5361859": [
+    {
+      "Student ID": "5361859",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361859",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361859",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361540
+    }
+  ],
+  "5361862": [
+    {
+      "Student ID": "5361862",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361862",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361862",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361862",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361862",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361862",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361420
+    }
+  ],
+  "5361863": [
+    {
+      "Student ID": "5361863",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361863",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361863",
+      "Course Code": "matgeom",
+      "Course Title": "Geometry",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361863",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361409
+    }
+  ],
+  "5361864": [
+    {
+      "Student ID": "5361864",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361864",
+      "Course Code": "lansp1",
+      "Course Title": "Spanish_I",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361864",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5361864",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361409
+    }
+  ],
+  "5361865": [
+    {
+      "Student ID": "5361865",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361865",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361865",
+      "Course Code": "matgeom",
+      "Course Title": "Geometry",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361865",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5361865",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361409
+    }
+  ],
+  "5361867": [
+    {
+      "Student ID": "5361867",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361867",
+      "Course Code": "eng10h",
+      "Course Title": "English_10_Honors",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361474
+    },
+    {
+      "Student ID": "5361867",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361867",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361498
+    },
+    {
+      "Student ID": "5361867",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361498
+    }
+  ],
+  "5361868": [
+    {
+      "Student ID": "5361868",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361868",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361868",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361868",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361868",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361868",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361420
+    }
+  ],
+  "5361869": [
+    {
+      "Student ID": "5361869",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361869",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361540
+    }
+  ],
+  "5361870": [
+    {
+      "Student ID": "5361870",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361870",
+      "Course Code": "eng10h",
+      "Course Title": "English_10_Honors",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361474
+    },
+    {
+      "Student ID": "5361870",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361498
+    }
+  ],
+  "5361871": [
+    {
+      "Student ID": "5361871",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361871",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361871",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5361871",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361871",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361380
+    }
+  ],
+  "5361872": [
+    {
+      "Student ID": "5361872",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361872",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361872",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361872",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361872",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "4A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361872",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361420
+    }
+  ],
+  "5361873": [
+    {
+      "Student ID": "5361873",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361873",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361873",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361873",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361873",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361873",
+      "Course Code": "scimabio",
+      "Course Title": "Marine_Biology",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361526
+    }
+  ],
+  "5361874": [
+    {
+      "Student ID": "5361874",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361874",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361874",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361874",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361874",
+      "Course Code": "scimabio",
+      "Course Title": "Marine_Biology",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361526
+    },
+    {
+      "Student ID": "5361874",
+      "Course Code": "scimabio",
+      "Course Title": "Marine_Biology",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361526
+    }
+  ],
+  "5361876": [
+    {
+      "Student ID": "5361876",
+      "Course Code": "dewciv1",
+      "Course Title": "Dual_Enrollment_World_Civ._101",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361422
+    },
+    {
+      "Student ID": "5361876",
+      "Course Code": "dewciv1",
+      "Course Title": "Dual_Enrollment_World_Civ._101",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361422
+    }
+  ],
+  "5361877": [
+    {
+      "Student ID": "5361877",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361877",
+      "Course Code": "dewciv1",
+      "Course Title": "Dual_Enrollment_World_Civ._101",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361422
+    },
+    {
+      "Student ID": "5361877",
+      "Course Code": "pehealthhs",
+      "Course Title": "Health_-_High_",
+      "Section": "3",
+      "Block": "3",
+      "Professor ID": 5361411
+    }
+  ],
+  "5361878": [
+    {
+      "Student ID": "5361878",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361878",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361878",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361878",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361878",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361878",
+      "Course Code": "sciphy",
+      "Course Title": "Physical_Science",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361526
+    }
+  ],
+  "5361879": [
+    {
+      "Student ID": "5361879",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361879",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361879",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361879",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361498
+    }
+  ],
+  "5361880": [
+    {
+      "Student ID": "5361880",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361880",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361880",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361880",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361880",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361880",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361498
+    }
+  ],
+  "5361881": [
+    {
+      "Student ID": "5361881",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361881",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361881",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361881",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5361881",
+      "Course Code": "soc11",
+      "Course Title": "World_History",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361461
+    }
+  ],
+  "5361882": [
+    {
+      "Student ID": "5361882",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361882",
+      "Course Code": "scimabio",
+      "Course Title": "Marine_Biology",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361526
+    },
+    {
+      "Student ID": "5361882",
+      "Course Code": "scimabio",
+      "Course Title": "Marine_Biology",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361526
+    },
+    {
+      "Student ID": "5361882",
+      "Course Code": "soc11",
+      "Course Title": "World_History",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361461
+    }
+  ],
+  "5361883": [
+    {
+      "Student ID": "5361883",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361883",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361883",
+      "Course Code": "desocip",
+      "Course Title": "Dual_Enrollment_Intro._to_Psych._101",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361457
+    },
+    {
+      "Student ID": "5361883",
+      "Course Code": "desocip",
+      "Course Title": "Dual_Enrollment_Intro._to_Psych._101",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361457
+    },
+    {
+      "Student ID": "5361883",
+      "Course Code": "dewciv1",
+      "Course Title": "Dual_Enrollment_World_Civ._101",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361422
+    }
+  ],
+  "5361884": [
+    {
+      "Student ID": "5361884",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361884",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361884",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361884",
+      "Course Code": "soc11",
+      "Course Title": "World_History",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361461
+    }
+  ],
+  "5361885": [
+    {
+      "Student ID": "5361885",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361885",
+      "Course Code": "dewciv1",
+      "Course Title": "Dual_Enrollment_World_Civ._101",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361422
+    },
+    {
+      "Student ID": "5361885",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361885",
+      "Course Code": "scimabio",
+      "Course Title": "Marine_Biology",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361526
+    },
+    {
+      "Student ID": "5361885",
+      "Course Code": "scimabio",
+      "Course Title": "Marine_Biology",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361526
+    },
+    {
+      "Student ID": "5361885",
+      "Course Code": "techgraphic",
+      "Course Title": "Graphic_Design",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361886": [
+    {
+      "Student ID": "5361886",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361886",
+      "Course Code": "scimabio",
+      "Course Title": "Marine_Biology",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361526
+    },
+    {
+      "Student ID": "5361886",
+      "Course Code": "soc11",
+      "Course Title": "World_History",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361461
+    }
+  ],
+  "5361887": [
+    {
+      "Student ID": "5361887",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361887",
+      "Course Code": "lansp1",
+      "Course Title": "Spanish_I",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361887",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361887",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361887",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361420
+    }
+  ],
+  "5361888": [
+    {
+      "Student ID": "5361888",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361888",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361888",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "4A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361888",
+      "Course Code": "scimabio",
+      "Course Title": "Marine_Biology",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361526
+    },
+    {
+      "Student ID": "5361888",
+      "Course Code": "soc11",
+      "Course Title": "World_History",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361461
+    }
+  ],
+  "5361889": [
+    {
+      "Student ID": "5361889",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361889",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361889",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361889",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361461
+    }
+  ],
+  "5361890": [
+    {
+      "Student ID": "5361890",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361890",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361890",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361890",
+      "Course Code": "sciphy",
+      "Course Title": "Physical_Science",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361526
+    },
+    {
+      "Student ID": "5361890",
+      "Course Code": "soc11",
+      "Course Title": "World_History",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361461
+    }
+  ],
+  "5361891": [
+    {
+      "Student ID": "5361891",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361891",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361891",
+      "Course Code": "mathalgiii",
+      "Course Title": "Trig/Algebra_III",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361412
+    },
+    {
+      "Student ID": "5361891",
+      "Course Code": "sciphy",
+      "Course Title": "Physical_Science",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361526
+    }
+  ],
+  "5361892": [
+    {
+      "Student ID": "5361892",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361892",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361892",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361892",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361892",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "4A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361892",
+      "Course Code": "soc11",
+      "Course Title": "World_History",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361892",
+      "Course Code": "soc11",
+      "Course Title": "World_History",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361461
+    }
+  ],
+  "5361893": [
+    {
+      "Student ID": "5361893",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361893",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361893",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361893",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361893",
+      "Course Code": "sciphy",
+      "Course Title": "Physical_Science",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361526
+    }
+  ],
+  "5361895": [
+    {
+      "Student ID": "5361895",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361895",
+      "Course Code": "pehealthhs",
+      "Course Title": "Health_-_High_",
+      "Section": "3",
+      "Block": "3",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5361895",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5361895",
+      "Course Code": "sciphy",
+      "Course Title": "Physical_Science",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361526
+    },
+    {
+      "Student ID": "5361895",
+      "Course Code": "sciphy",
+      "Course Title": "Physical_Science",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361526
+    }
+  ],
+  "5361896": [
+    {
+      "Student ID": "5361896",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361896",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361896",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361896",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361498
+    },
+    {
+      "Student ID": "5361896",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361498
+    },
+    {
+      "Student ID": "5361896",
+      "Course Code": "sciphy",
+      "Course Title": "Physical_Science",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361526
+    },
+    {
+      "Student ID": "5361896",
+      "Course Code": "techdigit",
+      "Course Title": "Digital_Imaging_&_Editing",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361897": [
+    {
+      "Student ID": "5361897",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361897",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361897",
+      "Course Code": "dewciv1",
+      "Course Title": "Dual_Enrollment_World_Civ._101",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361422
+    },
+    {
+      "Student ID": "5361897",
+      "Course Code": "pehealthhs",
+      "Course Title": "Health_-_High_",
+      "Section": "3",
+      "Block": "3",
+      "Professor ID": 5361411
+    }
+  ],
+  "5361898": [
+    {
+      "Student ID": "5361898",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361898",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361898",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361898",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361898",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361898",
+      "Course Code": "soc11",
+      "Course Title": "World_History",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361461
+    }
+  ],
+  "5361899": [
+    {
+      "Student ID": "5361899",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361899",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361899",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361899",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361899",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361899",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361899",
+      "Course Code": "sciphy",
+      "Course Title": "Physical_Science",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361526
+    }
+  ],
+  "5361900": [
+    {
+      "Student ID": "5361900",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361900",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361900",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361900",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361498
+    }
+  ],
+  "5361901": [
+    {
+      "Student ID": "5361901",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361901",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361901",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361901",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361901",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "4A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361901",
+      "Course Code": "sciphy",
+      "Course Title": "Physical_Science",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361526
+    }
+  ],
+  "5361902": [
+    {
+      "Student ID": "5361902",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361902",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361902",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361902",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361902",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361461
+    }
+  ],
+  "5361903": [
+    {
+      "Student ID": "5361903",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361903",
+      "Course Code": "mathalgiii",
+      "Course Title": "Trig/Algebra_III",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361412
+    },
+    {
+      "Student ID": "5361903",
+      "Course Code": "mathalgiii",
+      "Course Title": "Trig/Algebra_III",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361412
+    },
+    {
+      "Student ID": "5361903",
+      "Course Code": "pehealthhs",
+      "Course Title": "Health_-_High_",
+      "Section": "3",
+      "Block": "3",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5361903",
+      "Course Code": "soc11",
+      "Course Title": "World_History",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361461
+    }
+  ],
+  "5361904": [
+    {
+      "Student ID": "5361904",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361904",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5361904",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5361904",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5361904",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361411
+    }
+  ],
+  "5361905": [
+    {
+      "Student ID": "5361905",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361905",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361905",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361905",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5361905",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361417
+    }
+  ],
+  "5361906": [
+    {
+      "Student ID": "5361906",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361906",
+      "Course Code": "desocip",
+      "Course Title": "Dual_Enrollment_Intro._to_Psych._101",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361457
+    },
+    {
+      "Student ID": "5361906",
+      "Course Code": "desocip",
+      "Course Title": "Dual_Enrollment_Intro._to_Psych._101",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361457
+    }
+  ],
+  "5361907": [
+    {
+      "Student ID": "5361907",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361907",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361907",
+      "Course Code": "deeng151",
+      "Course Title": "Dual_Enrollment_English_151",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361474
+    }
+  ],
+  "5361908": [
+    {
+      "Student ID": "5361908",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361908",
+      "Course Code": "techdigit",
+      "Course Title": "Digital_Imaging_&_Editing",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361516
+    },
+    {
+      "Student ID": "5361908",
+      "Course Code": "techgraphic",
+      "Course Title": "Graphic_Design",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361909": [
+    {
+      "Student ID": "5361909",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361909",
+      "Course Code": "deeng151",
+      "Course Title": "Dual_Enrollment_English_151",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361474
+    },
+    {
+      "Student ID": "5361909",
+      "Course Code": "mathalgiii",
+      "Course Title": "Trig/Algebra_III",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361412
+    },
+    {
+      "Student ID": "5361909",
+      "Course Code": "sciphy",
+      "Course Title": "Physical_Science",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361526
+    },
+    {
+      "Student ID": "5361909",
+      "Course Code": "techdigit",
+      "Course Title": "Digital_Imaging_&_Editing",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361910": [
+    {
+      "Student ID": "5361910",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361910",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361498
+    },
+    {
+      "Student ID": "5361910",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361498
+    },
+    {
+      "Student ID": "5361910",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361498
+    },
+    {
+      "Student ID": "5361910",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361498
+    }
+  ],
+  "5361911": [
+    {
+      "Student ID": "5361911",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361911",
+      "Course Code": "dewciv1",
+      "Course Title": "Dual_Enrollment_World_Civ._101",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361422
+    },
+    {
+      "Student ID": "5361911",
+      "Course Code": "dewciv1",
+      "Course Title": "Dual_Enrollment_World_Civ._101",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361422
+    }
+  ],
+  "5361912": [
+    {
+      "Student ID": "5361912",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361912",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361912",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361912",
+      "Course Code": "deeng151",
+      "Course Title": "Dual_Enrollment_English_151",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361474
+    },
+    {
+      "Student ID": "5361912",
+      "Course Code": "desocip",
+      "Course Title": "Dual_Enrollment_Intro._to_Psych._101",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361457
+    },
+    {
+      "Student ID": "5361912",
+      "Course Code": "desocip",
+      "Course Title": "Dual_Enrollment_Intro._to_Psych._101",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361457
+    }
+  ],
+  "5361913": [
+    {
+      "Student ID": "5361913",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361913",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361913",
+      "Course Code": "deeng151",
+      "Course Title": "Dual_Enrollment_English_151",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361474
+    },
+    {
+      "Student ID": "5361913",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361498
+    }
+  ],
+  "5361914": [
+    {
+      "Student ID": "5361914",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361914",
+      "Course Code": "matalg2h",
+      "Course Title": "Alg_II_Honors",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361914",
+      "Course Code": "techgraphic",
+      "Course Title": "Graphic_Design",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361915": [
+    {
+      "Student ID": "5361915",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361915",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361915",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361915",
+      "Course Code": "techdigit",
+      "Course Title": "Digital_Imaging_&_Editing",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361917": [
+    {
+      "Student ID": "5361917",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361917",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361917",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361917",
+      "Course Code": "scimabio",
+      "Course Title": "Marine_Biology",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361526
+    },
+    {
+      "Student ID": "5361917",
+      "Course Code": "scimabio",
+      "Course Title": "Marine_Biology",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361526
+    }
+  ],
+  "5361918": [
+    {
+      "Student ID": "5361918",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361918",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361918",
+      "Course Code": "mathalgiii",
+      "Course Title": "Trig/Algebra_III",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361412
+    },
+    {
+      "Student ID": "5361918",
+      "Course Code": "mathalgiii",
+      "Course Title": "Trig/Algebra_III",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361412
+    }
+  ],
+  "5361919": [
+    {
+      "Student ID": "5361919",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361919",
+      "Course Code": "deeng151",
+      "Course Title": "Dual_Enrollment_English_151",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361474
+    }
+  ],
+  "5361920": [
+    {
+      "Student ID": "5361920",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361920",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361920",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361920",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361461
+    }
+  ],
+  "5361921": [
+    {
+      "Student ID": "5361921",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361921",
+      "Course Code": "deeng151",
+      "Course Title": "Dual_Enrollment_English_151",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361474
+    },
+    {
+      "Student ID": "5361921",
+      "Course Code": "deeng151",
+      "Course Title": "Dual_Enrollment_English_151",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361474
+    }
+  ],
+  "5361922": [
+    {
+      "Student ID": "5361922",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361922",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361922",
+      "Course Code": "deeng151",
+      "Course Title": "Dual_Enrollment_English_151",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361474
+    },
+    {
+      "Student ID": "5361922",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361498
+    }
+  ],
+  "5361923": [
+    {
+      "Student ID": "5361923",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361923",
+      "Course Code": "deeng151",
+      "Course Title": "Dual_Enrollment_English_151",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361474
+    },
+    {
+      "Student ID": "5361923",
+      "Course Code": "matapcalcab",
+      "Course Title": "AP_Calculus_A/B",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361412
+    },
+    {
+      "Student ID": "5361923",
+      "Course Code": "techdigit",
+      "Course Title": "Digital_Imaging_&_Editing",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361924": [
+    {
+      "Student ID": "5361924",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361924",
+      "Course Code": "deeng151",
+      "Course Title": "Dual_Enrollment_English_151",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361474
+    },
+    {
+      "Student ID": "5361924",
+      "Course Code": "desocip",
+      "Course Title": "Dual_Enrollment_Intro._to_Psych._101",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361457
+    },
+    {
+      "Student ID": "5361924",
+      "Course Code": "desocip",
+      "Course Title": "Dual_Enrollment_Intro._to_Psych._101",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361457
+    }
+  ],
+  "5361925": [
+    {
+      "Student ID": "5361925",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361925",
+      "Course Code": "matalg2h",
+      "Course Title": "Alg_II_Honors",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5407259
+    }
+  ],
+  "5361926": [
+    {
+      "Student ID": "5361926",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361926",
+      "Course Code": "mathalgiii",
+      "Course Title": "Trig/Algebra_III",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361412
+    }
+  ],
+  "5361927": [
+    {
+      "Student ID": "5361927",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361927",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361927",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361927",
+      "Course Code": "deeng151",
+      "Course Title": "Dual_Enrollment_English_151",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361474
+    }
+  ],
+  "5361928": [
+    {
+      "Student ID": "5361928",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361928",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361928",
+      "Course Code": "matapcalcab",
+      "Course Title": "AP_Calculus_A/B",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361412
+    },
+    {
+      "Student ID": "5361928",
+      "Course Code": "matapcalcab",
+      "Course Title": "AP_Calculus_A/B",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361412
+    }
+  ],
+  "5361929": [
+    {
+      "Student ID": "5361929",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361929",
+      "Course Code": "mathalgiii",
+      "Course Title": "Trig/Algebra_III",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361412
+    },
+    {
+      "Student ID": "5361929",
+      "Course Code": "mathalgiii",
+      "Course Title": "Trig/Algebra_III",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361412
+    },
+    {
+      "Student ID": "5361929",
+      "Course Code": "scimabio",
+      "Course Title": "Marine_Biology",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361526
+    },
+    {
+      "Student ID": "5361929",
+      "Course Code": "scimabio",
+      "Course Title": "Marine_Biology",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361526
+    }
+  ],
+  "5361930": [
+    {
+      "Student ID": "5361930",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361930",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361930",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361930",
+      "Course Code": "matapcalcab",
+      "Course Title": "AP_Calculus_A/B",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361412
+    },
+    {
+      "Student ID": "5361930",
+      "Course Code": "matapcalcab",
+      "Course Title": "AP_Calculus_A/B",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361412
+    },
+    {
+      "Student ID": "5361930",
+      "Course Code": "techgraphic",
+      "Course Title": "Graphic_Design",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361932": [
+    {
+      "Student ID": "5361932",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361932",
+      "Course Code": "matalg2h",
+      "Course Title": "Alg_II_Honors",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5361932",
+      "Course Code": "techgraphic",
+      "Course Title": "Graphic_Design",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361516
+    }
+  ],
+  "5361933": [
+    {
+      "Student ID": "5361933",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361933",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5361933",
+      "Course Code": "mathalgiii",
+      "Course Title": "Trig/Algebra_III",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361412
+    }
+  ],
+  "5361934": [
+    {
+      "Student ID": "5361934",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361934",
+      "Course Code": "pehealthhs",
+      "Course Title": "Health_-_High_",
+      "Section": "3",
+      "Block": "3",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5361934",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361498
+    },
+    {
+      "Student ID": "5361934",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361498
+    }
+  ],
+  "5361935": [
+    {
+      "Student ID": "5361935",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361935",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361935",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361935",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361935",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361454
+    }
+  ],
+  "5361936": [
+    {
+      "Student ID": "5361936",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361936",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361936",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361498
+    },
+    {
+      "Student ID": "5361936",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361498
+    }
+  ],
+  "5361937": [
+    {
+      "Student ID": "5361937",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5361937",
+      "Course Code": "matapcalcab",
+      "Course Title": "AP_Calculus_A/B",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361412
+    },
+    {
+      "Student ID": "5361937",
+      "Course Code": "techdigit",
+      "Course Title": "Digital_Imaging_&_Editing",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361516
+    },
+    {
+      "Student ID": "5361937",
+      "Course Code": "techdigit",
+      "Course Title": "Digital_Imaging_&_Editing",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361516
+    }
+  ],
+  "5407480": [
+    {
+      "Student ID": "5407480",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5407480",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5407480",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5407480",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5407480",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5407480",
+      "Course Code": "techdigit",
+      "Course Title": "Digital_Imaging_&_Editing",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361516
+    }
+  ],
+  "5407481": [
+    {
+      "Student ID": "5407481",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5407481",
+      "Course Code": "pehealthhs",
+      "Course Title": "Health_-_High_",
+      "Section": "3",
+      "Block": "3",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5407481",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5407481",
+      "Course Code": "scibio",
+      "Course Title": "Biology",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5407481",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361492
+    },
+    {
+      "Student ID": "5407481",
+      "Course Code": "techdigit",
+      "Course Title": "Digital_Imaging_&_Editing",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361516
+    }
+  ],
+  "5407488": [
+    {
+      "Student ID": "5407488",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407488",
+      "Course Code": "techdigit",
+      "Course Title": "Digital_Imaging_&_Editing",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361516
+    },
+    {
+      "Student ID": "5407488",
+      "Course Code": "techgraphic",
+      "Course Title": "Graphic_Design",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361516
+    }
+  ],
+  "5407494": [
+    {
+      "Student ID": "5407494",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407494",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407494",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407494",
+      "Course Code": "eng10h",
+      "Course Title": "English_10_Honors",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361474
+    }
+  ],
+  "5407497": [
+    {
+      "Student ID": "5407497",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407497",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407497",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5407497",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361409
+    }
+  ],
+  "5407498": [
+    {
+      "Student ID": "5407498",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5407498",
+      "Course Code": "dewciv1",
+      "Course Title": "Dual_Enrollment_World_Civ._101",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361422
+    },
+    {
+      "Student ID": "5407498",
+      "Course Code": "dewciv1",
+      "Course Title": "Dual_Enrollment_World_Civ._101",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361422
+    },
+    {
+      "Student ID": "5407498",
+      "Course Code": "scimabio",
+      "Course Title": "Marine_Biology",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361526
+    }
+  ],
+  "5407499": [
+    {
+      "Student ID": "5407499",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5407499",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5407499",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5407499",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5407499",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5407499",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "4A",
+      "Professor ID": 5361420
+    }
+  ],
+  "5407500": [
+    {
+      "Student ID": "5407500",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5407500",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5407500",
+      "Course Code": "dewciv1",
+      "Course Title": "Dual_Enrollment_World_Civ._101",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361422
+    },
+    {
+      "Student ID": "5407500",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5407500",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5407500",
+      "Course Code": "matalg2h",
+      "Course Title": "Alg_II_Honors",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5407259
+    }
+  ],
+  "5407506": [
+    {
+      "Student ID": "5407506",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5407506",
+      "Course Code": "mathalgiii",
+      "Course Title": "Trig/Algebra_III",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361412
+    },
+    {
+      "Student ID": "5407506",
+      "Course Code": "mathalgiii",
+      "Course Title": "Trig/Algebra_III",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361412
+    },
+    {
+      "Student ID": "5407506",
+      "Course Code": "sciphy",
+      "Course Title": "Physical_Science",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361526
+    },
+    {
+      "Student ID": "5407506",
+      "Course Code": "sciphy",
+      "Course Title": "Physical_Science",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361526
+    }
+  ],
+  "5407517": [
+    {
+      "Student ID": "5407517",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407517",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407517",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5407517",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5407517",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5407517",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361411
+    }
+  ],
+  "5407518": [
+    {
+      "Student ID": "5407518",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407518",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407518",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5407518",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5407518",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361409
+    }
+  ],
+  "5407519": [
+    {
+      "Student ID": "5407519",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407519",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5407519",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361380
+    },
+    {
+      "Student ID": "5407519",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5407519",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5407519",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5407519",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361420
+    }
+  ],
+  "5407520": [
+    {
+      "Student ID": "5407520",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5407520",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407520",
+      "Course Code": "eng9h",
+      "Course Title": "English_9_Honors",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5322089
+    },
+    {
+      "Student ID": "5407520",
+      "Course Code": "eng9h",
+      "Course Title": "English_9_Honors",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5322089
+    },
+    {
+      "Student ID": "5407520",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361492
+    },
+    {
+      "Student ID": "5407520",
+      "Course Code": "techgraphic",
+      "Course Title": "Graphic_Design",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361516
+    }
+  ],
+  "5407527": [
+    {
+      "Student ID": "5407527",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5407527",
+      "Course Code": "deeng151",
+      "Course Title": "Dual_Enrollment_English_151",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361474
+    },
+    {
+      "Student ID": "5407527",
+      "Course Code": "desocip",
+      "Course Title": "Dual_Enrollment_Intro._to_Psych._101",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361457
+    },
+    {
+      "Student ID": "5407527",
+      "Course Code": "desocip",
+      "Course Title": "Dual_Enrollment_Intro._to_Psych._101",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361457
+    },
+    {
+      "Student ID": "5407527",
+      "Course Code": "mathalgiii",
+      "Course Title": "Trig/Algebra_III",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361412
+    },
+    {
+      "Student ID": "5407527",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361492
+    }
+  ],
+  "5407543": [
+    {
+      "Student ID": "5407543",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407543",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5407543",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5407543",
+      "Course Code": "matalg2",
+      "Course Title": "Algebra_II",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361420
+    },
+    {
+      "Student ID": "5407543",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361409
+    }
+  ],
+  "5407554": [
+    {
+      "Student ID": "5407554",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407554",
+      "Course Code": "matgeom",
+      "Course Title": "Geometry",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5407554",
+      "Course Code": "matgeom",
+      "Course Title": "Geometry",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5407554",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5407554",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5407554",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361409
+    }
+  ],
+  "5407556": [
+    {
+      "Student ID": "5407556",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5407556",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5407556",
+      "Course Code": "dewciv1",
+      "Course Title": "Dual_Enrollment_World_Civ._101",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361422
+    },
+    {
+      "Student ID": "5407556",
+      "Course Code": "techgraphic",
+      "Course Title": "Graphic_Design",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361516
+    },
+    {
+      "Student ID": "5407556",
+      "Course Code": "techgraphic",
+      "Course Title": "Graphic_Design",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361516
+    }
+  ],
+  "5407560": [
+    {
+      "Student ID": "5407560",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407560",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407560",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407560",
+      "Course Code": "bib10",
+      "Course Title": "Bible_10",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5407560",
+      "Course Code": "lansp1",
+      "Course Title": "Spanish_I",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5407560",
+      "Course Code": "scierth",
+      "Course Title": "Earth_and_Space_Science",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361409
+    }
+  ],
+  "5407561": [
+    {
+      "Student ID": "5407561",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5407561",
+      "Course Code": "dewciv1",
+      "Course Title": "Dual_Enrollment_World_Civ._101",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361422
+    },
+    {
+      "Student ID": "5407561",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5407561",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5407561",
+      "Course Code": "sciphy",
+      "Course Title": "Physical_Science",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361526
+    },
+    {
+      "Student ID": "5407561",
+      "Course Code": "sciphy",
+      "Course Title": "Physical_Science",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361526
+    }
+  ],
+  "5407564": [
+    {
+      "Student ID": "5407564",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5407564",
+      "Course Code": "dewciv1",
+      "Course Title": "Dual_Enrollment_World_Civ._101",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361422
+    },
+    {
+      "Student ID": "5407564",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361498
+    },
+    {
+      "Student ID": "5407564",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361498
+    },
+    {
+      "Student ID": "5407564",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361498
+    },
+    {
+      "Student ID": "5407564",
+      "Course Code": "scichem10h",
+      "Course Title": "Chemistry_Honors",
+      "Section": "2",
+      "Block": "4B",
+      "Professor ID": 5361498
+    }
+  ],
+  "5407584": [
+    {
+      "Student ID": "5407584",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5407584",
+      "Course Code": "lansp1",
+      "Course Title": "Spanish_I",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5407584",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5407584",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361492
+    }
+  ],
+  "5407590": [
+    {
+      "Student ID": "5407590",
+      "Course Code": "matgeomh",
+      "Course Title": "Geometry_Honors",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5407259
+    }
+  ],
+  "5407593": [
+    {
+      "Student ID": "5407593",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5407593",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5407593",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "2A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5407593",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361461
+    }
+  ],
+  "5409913": [
+    {
+      "Student ID": "5409913",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5409913",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5409913",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5409913",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5409913",
+      "Course Code": "soc11",
+      "Course Title": "World_History",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361461
+    }
+  ],
+  "5419610": [
+    {
+      "Student ID": "5419610",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5419610",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361454
+    }
+  ],
+  "5424569": [
+    {
+      "Student ID": "5424569",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5424569",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5424569",
+      "Course Code": "scibio",
+      "Course Title": "Biology",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5424569",
+      "Course Code": "scibio",
+      "Course Title": "Biology",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361409
+    },
+    {
+      "Student ID": "5424569",
+      "Course Code": "soc11",
+      "Course Title": "World_History",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361461
+    }
+  ],
+  "5424570": [
+    {
+      "Student ID": "5424570",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5424570",
+      "Course Code": "lansp1",
+      "Course Title": "Spanish_I",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5424570",
+      "Course Code": "matgeomh",
+      "Course Title": "Geometry_Honors",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5424570",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361492
+    },
+    {
+      "Student ID": "5424570",
+      "Course Code": "techdigit",
+      "Course Title": "Digital_Imaging_&_Editing",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361516
+    }
+  ],
+  "5432621": [
+    {
+      "Student ID": "5432621",
+      "Course Code": "bib11",
+      "Course Title": "Bible_11",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361417
+    },
+    {
+      "Student ID": "5432621",
+      "Course Code": "mathalgiii",
+      "Course Title": "Trig/Algebra_III",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361412
+    },
+    {
+      "Student ID": "5432621",
+      "Course Code": "soc11",
+      "Course Title": "World_History",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5432621",
+      "Course Code": "soc11",
+      "Course Title": "World_History",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361461
+    }
+  ],
+  "5434946": [
+    {
+      "Student ID": "5434946",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5434946",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5434946",
+      "Course Code": "matgeom",
+      "Course Title": "Geometry",
+      "Section": "2",
+      "Block": "2B",
+      "Professor ID": 5407259
+    },
+    {
+      "Student ID": "5434946",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361492
+    },
+    {
+      "Student ID": "5434946",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5361492
+    }
+  ],
+  "5439293": [
+    {
+      "Student ID": "5439293",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "1",
+      "Block": "4A",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5439293",
+      "Course Code": "lansp1",
+      "Course Title": "Spanish_I",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5439293",
+      "Course Code": "lansp1",
+      "Course Title": "Spanish_I",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5439293",
+      "Course Code": "pehealthhs",
+      "Course Title": "Health_-_High_",
+      "Section": "3",
+      "Block": "3",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5439293",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5439293",
+      "Course Code": "pehs",
+      "Course Title": "Physical_Education_-_High_",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361411
+    },
+    {
+      "Student ID": "5439293",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361492
+    }
+  ],
+  "5510555": [
+    {
+      "Student ID": "5510555",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5510555",
+      "Course Code": "eng9h",
+      "Course Title": "English_9_Honors",
+      "Section": "1",
+      "Block": "3",
+      "Professor ID": 5322089
+    },
+    {
+      "Student ID": "5510555",
+      "Course Code": "lansp1",
+      "Course Title": "Spanish_I",
+      "Section": "1",
+      "Block": "1A",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5510555",
+      "Course Code": "lansp1",
+      "Course Title": "Spanish_I",
+      "Section": "1",
+      "Block": "4B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5510555",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "1",
+      "Block": "2A",
+      "Professor ID": 5361492
+    }
+  ],
+  "5593175": [
+    {
+      "Student ID": "5593175",
+      "Course Code": "bib12",
+      "Course Title": "Bible_12",
+      "Section": "2",
+      "Block": "3",
+      "Professor ID": 5361454
+    },
+    {
+      "Student ID": "5593175",
+      "Course Code": "finlit",
+      "Course Title": "Financial_Literacy",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361461
+    },
+    {
+      "Student ID": "5593175",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "1B",
+      "Professor ID": 5361540
+    },
+    {
+      "Student ID": "5593175",
+      "Course Code": "lansp2",
+      "Course Title": "Spanish_II",
+      "Section": "1",
+      "Block": "2B",
+      "Professor ID": 5361540
+    }
+  ],
+  "5642283": [
+    {
+      "Student ID": "5642283",
+      "Course Code": "bib9",
+      "Course Title": "Bible_9",
+      "Section": "2",
+      "Block": "1B",
+      "Professor ID": 5361400
+    },
+    {
+      "Student ID": "5642283",
+      "Course Code": "soc9",
+      "Course Title": "US_History",
+      "Section": "2",
+      "Block": "1A",
+      "Professor ID": 5361492
+    }
+  ]
+}
