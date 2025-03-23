@@ -1,0 +1,666 @@
+[
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361519,
+    "Course Title": "Band_-_High_",
+    "Course Code": "ARTBND",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361487,
+    "Course Title": "Chorus_-_High_",
+    "Course Code": "ARTChor",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361415,
+    "Course Title": "Drawing_and_Painting",
+    "Course Code": "ARTDRAW",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 1,
+    "Prof ID": 5361415,
+    "Course Title": "Studio_Art_I",
+    "Course Code": "ARTSTD1",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5361415,
+    "Course Title": "Studio_Art_II",
+    "Course Code": "ARTSTD2",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361400,
+    "Course Title": "Bible_10",
+    "Course Code": "BIB10",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361400,
+    "Course Title": "Bible_10",
+    "Course Code": "BIB10",
+    "Section Number": 2
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361417,
+    "Course Title": "Bible_11",
+    "Course Code": "BIB11",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361417,
+    "Course Title": "Bible_11",
+    "Course Code": "BIB11",
+    "Section Number": 2
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361454,
+    "Course Title": "Bible_12",
+    "Course Code": "BIB12",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361454,
+    "Course Title": "Bible_12",
+    "Course Code": "BIB12",
+    "Section Number": 2
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361454,
+    "Course Title": "Bible_9",
+    "Course Code": "BIB9",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361400,
+    "Course Title": "Bible_9",
+    "Course Code": "BIB9",
+    "Section Number": 2
+  },
+  {
+    "Length": 1,
+    "Start Term": 1,
+    "Prof ID": 5361498,
+    "Course Title": "Dual_Enrollment_Biology_101",
+    "Course Code": "DEBIO101",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5361498,
+    "Course Title": "Dual_Enrollment_Chemistry_105",
+    "Course Code": "DECHEM105",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5361474,
+    "Course Title": "Dual_Enrollment_English_101",
+    "Course Code": "DEENG101",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 1,
+    "Prof ID": 5361474,
+    "Course Title": "Dual_Enrollment_English_151",
+    "Course Code": "DEENG151",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5361457,
+    "Course Title": "Dual_Enrollment_Intro._to_Teaching_201",
+    "Course Code": "DEITCHG",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 1,
+    "Prof ID": 5361457,
+    "Course Title": "Dual_Enrollment_Intro._to_Psych._101",
+    "Course Code": "DESOCIP",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5361422,
+    "Course Title": "Dual_Enrollment_World_Civ._151",
+    "Course Code": "DESOCWCIV2",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 1,
+    "Prof ID": 5361422,
+    "Course Title": "Dual_Enrollment_World_Civ._101",
+    "Course Code": "DEWCIV1",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361474,
+    "Course Title": "English_10",
+    "Course Code": "ENG10",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361474,
+    "Course Title": "English_10_Honors",
+    "Course Code": "ENG10H",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5322089,
+    "Course Title": "American_Literature",
+    "Course Code": "ENG11",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 1,
+    "Prof ID": 5361474,
+    "Course Title": "American_Literature_Honors",
+    "Course Code": "ENG11AMLTH-",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361474,
+    "Course Title": "World_Literature",
+    "Course Code": "ENG12WORLD",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5361474,
+    "Course Title": "World_Literature_Honors",
+    "Course Code": "ENG12WORLDH",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5322089,
+    "Course Title": "English_9",
+    "Course Code": "ENG9",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5322089,
+    "Course Title": "English_9_Honors",
+    "Course Code": "ENG9H",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5322089,
+    "Course Title": "Speech_Communications",
+    "Course Code": "ENGSPCH",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 1,
+    "Prof ID": 5361400,
+    "Course Title": "Faith_&_Film",
+    "Course Code": "FAF",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5361400,
+    "Course Title": "Faith_&_Film",
+    "Course Code": "FAF",
+    "Section Number": 2
+  },
+  {
+    "Length": 1,
+    "Start Term": 1,
+    "Prof ID": 5361461,
+    "Course Title": "Financial_Literacy",
+    "Course Code": "FINLIT",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5361461,
+    "Course Title": "Financial_Literacy",
+    "Course Code": "FINLIT",
+    "Section Number": 2
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361540,
+    "Course Title": "Spanish_I",
+    "Course Code": "LANSP1",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361540,
+    "Course Title": "Spanish_I",
+    "Course Code": "LANSP1",
+    "Section Number": 2
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361540,
+    "Course Title": "Spanish_II",
+    "Course Code": "LANSP2",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361540,
+    "Course Title": "Spanish_II",
+    "Course Code": "LANSP2",
+    "Section Number": 2
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361540,
+    "Course Title": "Spanish_III",
+    "Course Code": "LANSP3",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361526,
+    "Course Title": "Algebra_1",
+    "Course Code": "MATALG1",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361526,
+    "Course Title": "Algebra_1_Honors",
+    "Course Code": "MATALG1H",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361380,
+    "Course Title": "Algebra_II",
+    "Course Code": "MATALG2",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361420,
+    "Course Title": "Algebra_II",
+    "Course Code": "MATALG2",
+    "Section Number": 2
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5407259,
+    "Course Title": "Alg_II_Honors",
+    "Course Code": "MATALG2H",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361412,
+    "Course Title": "AP_Calculus_A/B",
+    "Course Code": "MATAPCALCAB",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5361412,
+    "Course Title": "Dual_Enrollment_Statistics_152",
+    "Course Code": "MATDESTATS",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5407259,
+    "Course Title": "Geometry",
+    "Course Code": "MATGEOM",
+    "Section Number": 2
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5407259,
+    "Course Title": "Geometry_Honors",
+    "Course Code": "MATGEOMH",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361412,
+    "Course Title": "Trig/Algebra_III",
+    "Course Code": "MATHALGIII",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 1,
+    "Prof ID": 5361412,
+    "Course Title": "Statistics_Honors",
+    "Course Code": "MATHSTATSH",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361412,
+    "Course Title": "Trig/PreCalculus",
+    "Course Code": "MATTRIG",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361412,
+    "Course Title": "Trig/Pre-Calculus_Hon",
+    "Course Code": "MATTrigH",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 1,
+    "Prof ID": 5361411,
+    "Course Title": "Health_-_High_",
+    "Course Code": "PEHealthHS",
+    "Section Number": 2
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5361411,
+    "Course Title": "Health_-_High_",
+    "Course Code": "PEHealthHS",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5361411,
+    "Course Title": "Health_-_High_",
+    "Course Code": "PEHealthHS",
+    "Section Number": 3
+  },
+  {
+    "Length": 1,
+    "Start Term": 1,
+    "Prof ID": 5361411,
+    "Course Title": "Physical_Education_-_High_",
+    "Course Code": "PEHS",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5361411,
+    "Course Title": "Physical_Education_-_High_",
+    "Course Code": "PEHS",
+    "Section Number": 2
+  },
+  {
+    "Length": 1,
+    "Start Term": 1,
+    "Prof ID": 5361411,
+    "Course Title": "Personal_Fitness",
+    "Course Code": "PEPF",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 1,
+    "Prof ID": 5361498,
+    "Course Title": "Anatomy_&_Physiology",
+    "Course Code": "SCIANATPH",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361409,
+    "Course Title": "Biology",
+    "Course Code": "SCIBIO",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361409,
+    "Course Title": "Biology_Honors",
+    "Course Code": "SCIBIOH",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361498,
+    "Course Title": "Chemistry_Honors",
+    "Course Code": "SCICHEM10H",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361498,
+    "Course Title": "Chemistry_Honors",
+    "Course Code": "SCICHEM10H",
+    "Section Number": 2
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361409,
+    "Course Title": "Earth_and_Space_Science",
+    "Course Code": "SCIERTH",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361409,
+    "Course Title": "Earth_and_Space_Science",
+    "Course Code": "SCIERTH",
+    "Section Number": 2
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5361526,
+    "Course Title": "Marine_Biology",
+    "Course Code": "SCIMABIO",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361526,
+    "Course Title": "Physical_Science",
+    "Course Code": "SCIPHY",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361492,
+    "Course Title": "American_Government_&_Politics",
+    "Course Code": "SOC10GOV",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361492,
+    "Course Title": "American_Government_&_Politics",
+    "Course Code": "SOC10GOV",
+    "Section Number": 2
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361492,
+    "Course Title": "American_Government_&_Politics_Honors",
+    "Course Code": "SOC10GOVH",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361461,
+    "Course Title": "World_History",
+    "Course Code": "SOC11",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361492,
+    "Course Title": "US_History",
+    "Course Code": "SOC9",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361492,
+    "Course Title": "US_History",
+    "Course Code": "SOC9",
+    "Section Number": 2
+  },
+  {
+    "Length": 1,
+    "Start Term": 1,
+    "Prof ID": 5322089,
+    "Course Title": "Introduction_to_Business",
+    "Course Code": "SOCIB",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361516,
+    "Course Title": "Advanced_Robotics",
+    "Course Code": "TECHADVROB",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 1,
+    "Prof ID": 5361516,
+    "Course Title": "Digital_Imaging_&_Editing",
+    "Course Code": "TECHDIGIT",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5361516,
+    "Course Title": "Graphic_Design",
+    "Course Code": "TECHGRAPHIC",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5361516,
+    "Course Title": "Graphic_Design",
+    "Course Code": "TECHGRAPHIC",
+    "Section Number": 2
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5396676,
+    "Course Title": "Yearbook",
+    "Course Code": "TECHYEAR",
+    "Section Number": 1
+  },
+  {
+    "Length": 1,
+    "Start Term": 2,
+    "Prof ID": 5361411,
+    "Course Title": "Recreational_Sports",
+    "Course Code": "PERS",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361498,
+    "Course Title": "Physics_Honors",
+    "Course Code": "SCIPHYH",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5361516,
+    "Course Title": "AP_Computer_Science",
+    "Course Code": "APComp",
+    "Section Number": 1
+  },
+  {
+    "Length": 2,
+    "Start Term": 1,
+    "Prof ID": 5322089,
+    "Course Title": "Journalism",
+    "Course Code": "ENGJOUR",
+    "Section Number": 1
+  }
+]

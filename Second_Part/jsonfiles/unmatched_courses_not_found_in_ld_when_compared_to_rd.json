@@ -1,0 +1,52 @@
+[
+  {
+    "Course Title": "Modern_America",
+    "Course Code": "SOCMODUS",
+    "Course Length": 2,
+    "Room Number": 203,
+    "Section Number": 1,
+    "Course ID": 282763,
+    "Prof ID": 5361492,
+    "Start Term": 1
+  },
+  {
+    "Course Title": "Introduction_to_Sociology_Part_I",
+    "Course Code": "INTROSOCI",
+    "Course Length": 2,
+    "Room Number": 128,
+    "Section Number": 1,
+    "Course ID": 306765,
+    "Prof ID": 5712532,
+    "Start Term": 1
+  },
+  {
+    "Course Title": "Test_HS_Course",
+    "Course Code": null,
+    "Course Length": 4,
+    "Room Number": 305,
+    "Section Number": 1,
+    "Course ID": 277478,
+    "Prof ID": 5361456,
+    "Start Term": 1
+  },
+  {
+    "Course Title": "Contemporary_Issues",
+    "Course Code": "SOCCONT",
+    "Course Length": 2,
+    "Room Number": 203,
+    "Section Number": 1,
+    "Course ID": 300217,
+    "Prof ID": 5361492,
+    "Start Term": 2
+  },
+  {
+    "Course Title": "Introduction_to_Sociology_Part_II",
+    "Course Code": "INTROSOCII",
+    "Course Length": 2,
+    "Room Number": 128,
+    "Section Number": 1,
+    "Course ID": 306766,
+    "Prof ID": 5712532,
+    "Start Term": 2
+  }
+]

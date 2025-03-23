@@ -1,0 +1,2231 @@
+{
+  "courses": [
+    {
+      "course_code": "APComp",
+      "title": "AP Computer Science",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 3.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 20.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361516,
+          "start_term": 1,
+          "room_number": 205.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "ARTChor",
+      "title": "Chorus - High ",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 40.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361487,
+          "start_term": 1,
+          "room_number": 129.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "ARTDRAW",
+      "title": "Drawing and Painting",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361415,
+          "start_term": 1,
+          "room_number": 133.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "ARTSTD1",
+      "title": "Studio Art I",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361415,
+          "start_term": 1,
+          "room_number": 133.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "ARTSTD2",
+      "title": "Studio Art II",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361415,
+          "start_term": 2,
+          "room_number": 133.0,
+          "year": "2024 - 2025",
+          "term_description": "2nd Term",
+          "term_name": "Second"
+        }
+      ]
+    },
+    {
+      "course_code": "BIB10",
+      "title": "Bible 10",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 12.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 2.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361400,
+          "start_term": 1,
+          "room_number": 201.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        },
+        {
+          "section_number": 2,
+          "lecturer_id": 5361400,
+          "start_term": 1,
+          "room_number": 202.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "BIB11",
+      "title": "Bible 11",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 12.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 2.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361417,
+          "start_term": 1,
+          "room_number": 201.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        },
+        {
+          "section_number": 2,
+          "lecturer_id": 5361417,
+          "start_term": 1,
+          "room_number": 201.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "BIB12",
+      "title": "Bible 12",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 12.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 2.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361454,
+          "start_term": 1,
+          "room_number": 210.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        },
+        {
+          "section_number": 2,
+          "lecturer_id": 5361454,
+          "start_term": 1,
+          "room_number": 203.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "BIB9",
+      "title": "Bible 9",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 12.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 2.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361454,
+          "start_term": 1,
+          "room_number": 126.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        },
+        {
+          "section_number": 2,
+          "lecturer_id": 5361400,
+          "start_term": 1,
+          "room_number": 201.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "DEBIO101",
+      "title": "Dual Enrollment Biology 101",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "2B"
+      ],
+      "unavailable_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "minimum_section_size": 7.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361498,
+          "start_term": 1,
+          "room_number": 122.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "DECHEM105",
+      "title": "Dual Enrollment Chemistry 105",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361498,
+          "start_term": 2,
+          "room_number": 122.0,
+          "year": "2024 - 2025",
+          "term_description": "2nd Term",
+          "term_name": "Second"
+        }
+      ]
+    },
+    {
+      "course_code": "DEENG101",
+      "title": "Dual Enrollment English 101",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361474,
+          "start_term": 2,
+          "room_number": 114.0,
+          "year": "2024 - 2025",
+          "term_description": "2nd Term",
+          "term_name": "Second"
+        }
+      ]
+    },
+    {
+      "course_code": "DEENG151",
+      "title": "Dual Enrollment English 151",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361474,
+          "start_term": 1,
+          "room_number": 114.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "DEITCHG",
+      "title": "Dual Enrollment Intro. to Teaching 201",
+      "length": 1,
+      "priority": "Elective",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 5.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361457,
+          "start_term": 2,
+          "room_number": 123.0,
+          "year": "2024 - 2025",
+          "term_description": "2nd Term",
+          "term_name": "Second"
+        }
+      ]
+    },
+    {
+      "course_code": "DESOCIP",
+      "title": "Dual Enrollment Intro. to Psych. 101",
+      "length": 1,
+      "priority": "Elective",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 5.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361457,
+          "start_term": 1,
+          "room_number": 123.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "DESOCWCIV2",
+      "title": "Dual Enrollment World Civ. 151",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "2A",
+        "2B"
+      ],
+      "unavailable_blocks": [
+        "1A",
+        "1B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361422,
+          "start_term": 2,
+          "room_number": 113.0,
+          "year": "2024 - 2025",
+          "term_description": "2nd Term",
+          "term_name": "Second"
+        }
+      ]
+    },
+    {
+      "course_code": "DEWCIV1",
+      "title": "Dual Enrollment World Civ. 101",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "2A",
+        "2B"
+      ],
+      "unavailable_blocks": [
+        "1A",
+        "1B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361422,
+          "start_term": 1,
+          "room_number": 113.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "ENG10",
+      "title": "English 10",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361474,
+          "start_term": 1,
+          "room_number": 114.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "ENG10H",
+      "title": "English 10 Honors",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361474,
+          "start_term": 1,
+          "room_number": 114.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "ENG11",
+      "title": "American Literature",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 12.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5322089,
+          "start_term": 1,
+          "room_number": 113.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "ENG11AMLTH-",
+      "title": "American Literature Honors",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361474,
+          "start_term": 1,
+          "room_number": 114.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "ENG12WORLD",
+      "title": "World Literature",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361474,
+          "start_term": 1,
+          "room_number": 114.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "ENG12WORLDH",
+      "title": "World Literature Honors",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361474,
+          "start_term": 2,
+          "room_number": 114.0,
+          "year": "2024 - 2025",
+          "term_description": "2nd Term",
+          "term_name": "Second"
+        }
+      ]
+    },
+    {
+      "course_code": "ENG9",
+      "title": "English 9",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5322089,
+          "start_term": 1,
+          "room_number": 113.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "ENG9H",
+      "title": "English 9 Honors",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5322089,
+          "start_term": 1,
+          "room_number": 113.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "ENGJOUR",
+      "title": "Journalism",
+      "length": 2,
+      "priority": "Elective",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5322089,
+          "start_term": 1,
+          "room_number": 113.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "ENGSPCH",
+      "title": "Speech Communications",
+      "length": 1,
+      "priority": "Elective",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5322089,
+          "start_term": 2,
+          "room_number": 113.0,
+          "year": "2024 - 2025",
+          "term_description": "2nd Term",
+          "term_name": "Second"
+        }
+      ]
+    },
+    {
+      "course_code": "FAF",
+      "title": "Faith & Film",
+      "length": 1,
+      "priority": "Elective",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 20.0,
+      "number_of_sections": 2.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361400,
+          "start_term": 1,
+          "room_number": 202.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        },
+        {
+          "section_number": 2,
+          "lecturer_id": 5361400,
+          "start_term": 2,
+          "room_number": 209.0,
+          "year": "2024 - 2025",
+          "term_description": "2nd Term",
+          "term_name": "Second"
+        }
+      ]
+    },
+    {
+      "course_code": "FINLIT",
+      "title": "Financial Literacy",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 2.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361461,
+          "start_term": 1,
+          "room_number": 209.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        },
+        {
+          "section_number": 2,
+          "lecturer_id": 5361461,
+          "start_term": 2,
+          "room_number": 202.0,
+          "year": "2024 - 2025",
+          "term_description": "2nd Term",
+          "term_name": "Second"
+        }
+      ]
+    },
+    {
+      "course_code": "LANSP1",
+      "title": "Spanish I",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 2.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361540,
+          "start_term": 1,
+          "room_number": 128.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        },
+        {
+          "section_number": 2,
+          "lecturer_id": 5361540,
+          "start_term": 1,
+          "room_number": 128.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "LANSP2",
+      "title": "Spanish II",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 2.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361540,
+          "start_term": 1,
+          "room_number": 128.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        },
+        {
+          "section_number": 2,
+          "lecturer_id": 5361540,
+          "start_term": 1,
+          "room_number": 128.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "LANSP3",
+      "title": "Spanish III",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361540,
+          "start_term": 1,
+          "room_number": 128.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "MATALG1",
+      "title": "Algebra 1",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361526,
+          "start_term": 1,
+          "room_number": 123.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "MATALG1H",
+      "title": "Algebra 1 Honors",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361526,
+          "start_term": 1,
+          "room_number": 123.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "MATALG2",
+      "title": "Algebra II",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 2.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361380,
+          "start_term": 1,
+          "room_number": 113.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        },
+        {
+          "section_number": 2,
+          "lecturer_id": 5361420,
+          "start_term": 1,
+          "room_number": 124.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "MATALG2H",
+      "title": "Alg II Honors",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5407259,
+          "start_term": 1,
+          "room_number": 125.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "MATAPCALCAB",
+      "title": "AP Calculus A/B",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 3.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361412,
+          "start_term": 1,
+          "room_number": 125.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "MATDESTATS",
+      "title": "Dual Enrollment Statistics 152",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361412,
+          "start_term": 2,
+          "room_number": 125.0,
+          "year": "2024 - 2025",
+          "term_description": "2nd Term",
+          "term_name": "Second"
+        }
+      ]
+    },
+    {
+      "course_code": "MATGEOM",
+      "title": "Geometry",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 2,
+          "lecturer_id": 5407259,
+          "start_term": 1,
+          "room_number": 125.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "MATGEOMH",
+      "title": "Geometry Honors",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5407259,
+          "start_term": 1,
+          "room_number": 128.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "MATHALGIII",
+      "title": "Trig/Algebra III",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361412,
+          "start_term": 1,
+          "room_number": 118.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "MATHSTATSH",
+      "title": "Statistics Honors",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361412,
+          "start_term": 1,
+          "room_number": 125.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "MATTRIG",
+      "title": "Trig/PreCalculus",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361412,
+          "start_term": 1,
+          "room_number": 125.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "MATTrigH",
+      "title": "Trig/Pre-Calculus Hon",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361412,
+          "start_term": 1,
+          "room_number": 125.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "PEHS",
+      "title": "Physical Education - High ",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 2.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361411,
+          "start_term": 1,
+          "room_number": 148.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        },
+        {
+          "section_number": 1,
+          "lecturer_id": 5361411,
+          "start_term": 1,
+          "room_number": 148.0,
+          "year": "2024 - 2025",
+          "term_description": "2nd Term",
+          "term_name": "Second"
+        }
+      ]
+    },
+    {
+      "course_code": "PEHealthHS",
+      "title": "Health - High ",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 3.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 2,
+          "lecturer_id": 5361411,
+          "start_term": 1,
+          "room_number": 118.0,
+          "year": "2024 - 2025",
+          "term_description": "2nd Term",
+          "term_name": "Second"
+        },
+        {
+          "section_number": 1,
+          "lecturer_id": 5361411,
+          "start_term": 2,
+          "room_number": 118.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "PEPF",
+      "title": "Personal Fitness",
+      "length": 1,
+      "priority": "Elective",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361411,
+          "start_term": 1,
+          "room_number": 148.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "PERS",
+      "title": "Recreational Sports",
+      "length": 1,
+      "priority": "Elective",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361411,
+          "start_term": 2,
+          "room_number": 148.0,
+          "year": "2024 - 2025",
+          "term_description": "2nd Term",
+          "term_name": "Second"
+        }
+      ]
+    },
+    {
+      "course_code": "SCIANATPH",
+      "title": "Anatomy & Physiology",
+      "length": 1,
+      "priority": "Elective",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361498,
+          "start_term": 1,
+          "room_number": 122.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "SCIBIO",
+      "title": "Biology",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361409,
+          "start_term": 1,
+          "room_number": 124.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "SCIBIOH",
+      "title": "Biology Honors",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361409,
+          "start_term": 1,
+          "room_number": 124.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "SCICHEM10H",
+      "title": "Chemistry Honors",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 2.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361498,
+          "start_term": 1,
+          "room_number": 122.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        },
+        {
+          "section_number": 2,
+          "lecturer_id": 5361498,
+          "start_term": 1,
+          "room_number": 122.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "SCIERTH",
+      "title": "Earth and Space Science",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 2.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361409,
+          "start_term": 1,
+          "room_number": 124.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        },
+        {
+          "section_number": 2,
+          "lecturer_id": 5361409,
+          "start_term": 1,
+          "room_number": 124.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "SCIMABIO",
+      "title": "Marine Biology",
+      "length": 1,
+      "priority": "Elective",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361526,
+          "start_term": 2,
+          "room_number": 122.0,
+          "year": "2024 - 2025",
+          "term_description": "2nd Term",
+          "term_name": "Second"
+        }
+      ]
+    },
+    {
+      "course_code": "SCIPHY",
+      "title": "Physical Science",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361526,
+          "start_term": 1,
+          "room_number": 123.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "SCIPHYH",
+      "title": "Physics Honors",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361498,
+          "start_term": 1,
+          "room_number": 122.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "SOC10GOV",
+      "title": "American Government & Politics",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 2.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361492,
+          "start_term": 1,
+          "room_number": 203.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        },
+        {
+          "section_number": 2,
+          "lecturer_id": 5361492,
+          "start_term": 1,
+          "room_number": 203.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "SOC10GOVH",
+      "title": "American Government & Politics Honors",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361492,
+          "start_term": 1,
+          "room_number": 202.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "SOC11",
+      "title": "World History",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361461,
+          "start_term": 1,
+          "room_number": 202.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "SOC9",
+      "title": "US History",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 2.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361492,
+          "start_term": 1,
+          "room_number": 203.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        },
+        {
+          "section_number": 2,
+          "lecturer_id": 5361492,
+          "start_term": 1,
+          "room_number": 203.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "SOCIB",
+      "title": "Introduction to Business",
+      "length": 1,
+      "priority": "Elective",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5322089,
+          "start_term": 1,
+          "room_number": 113.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "TECHADVROB",
+      "title": "Advanced Robotics",
+      "length": 2,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361516,
+          "start_term": 1,
+          "room_number": 205.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "TECHDIGIT",
+      "title": "Digital Imaging & Editing",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361516,
+          "start_term": 1,
+          "room_number": 205.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    },
+    {
+      "course_code": "TECHGRAPHIC",
+      "title": "Graphic Design",
+      "length": 1,
+      "priority": "Core course",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 20.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 2.0,
+      "total_credits": 0.5,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5361516,
+          "start_term": 2,
+          "room_number": 205.0,
+          "year": "2024 - 2025",
+          "term_description": "2nd Term",
+          "term_name": "Second"
+        },
+        {
+          "section_number": 2,
+          "lecturer_id": 5361516,
+          "start_term": 2,
+          "room_number": 205.0,
+          "year": "2024 - 2025",
+          "term_description": "2nd Term",
+          "term_name": "Second"
+        }
+      ]
+    },
+    {
+      "course_code": "TECHYEAR",
+      "title": "Yearbook",
+      "length": 2,
+      "priority": "Elective",
+      "available_blocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailable_blocks": [],
+      "minimum_section_size": 7.0,
+      "target_section_size": 15.0,
+      "maximum_section_size": 26.0,
+      "number_of_sections": 1.0,
+      "total_credits": 1.0,
+      "sections": [
+        {
+          "section_number": 1,
+          "lecturer_id": 5396676,
+          "start_term": 1,
+          "room_number": 305.0,
+          "year": "2024 - 2025",
+          "term_description": "1st Term",
+          "term_name": "1st"
+        }
+      ]
+    }
+  ]
+}

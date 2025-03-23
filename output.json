@@ -1,0 +1,666 @@
+[
+  {
+    "Lecturer ID": 5361519,
+    "Lecture Title": "Band - High ",
+    "lecture Code": "ARTBND",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361487,
+    "Lecture Title": "Chorus - High ",
+    "lecture Code": "ARTChor",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361415,
+    "Lecture Title": "Drawing and Painting",
+    "lecture Code": "ARTDRAW",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361415,
+    "Lecture Title": "Studio Art I",
+    "lecture Code": "ARTSTD1",
+    "Length": 1,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361415,
+    "Lecture Title": "Studio Art II",
+    "lecture Code": "ARTSTD2",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361400,
+    "Lecture Title": "Bible 10",
+    "lecture Code": "BIB10",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361400,
+    "Lecture Title": "Bible 10",
+    "lecture Code": "BIB10",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5361417,
+    "Lecture Title": "Bible 11",
+    "lecture Code": "BIB11",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361417,
+    "Lecture Title": "Bible 11",
+    "lecture Code": "BIB11",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5361454,
+    "Lecture Title": "Bible 12",
+    "lecture Code": "BIB12",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361454,
+    "Lecture Title": "Bible 12",
+    "lecture Code": "BIB12",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5361454,
+    "Lecture Title": "Bible 9",
+    "lecture Code": "BIB9",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361400,
+    "Lecture Title": "Bible 9",
+    "lecture Code": "BIB9",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5361498,
+    "Lecture Title": "Dual Enrollment Biology 101",
+    "lecture Code": "DEBIO101",
+    "Length": 1,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361498,
+    "Lecture Title": "Dual Enrollment Chemistry 105",
+    "lecture Code": "DECHEM105",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361474,
+    "Lecture Title": "Dual Enrollment English 101",
+    "lecture Code": "DEENG101",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361474,
+    "Lecture Title": "Dual Enrollment English 151",
+    "lecture Code": "DEENG151",
+    "Length": 1,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361457,
+    "Lecture Title": "Dual Enrollment Intro. to Teaching 201",
+    "lecture Code": "DEITCHG",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361457,
+    "Lecture Title": "Dual Enrollment Intro. to Psych. 101",
+    "lecture Code": "DESOCIP",
+    "Length": 1,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361422,
+    "Lecture Title": "Dual Enrollment World Civ. 151",
+    "lecture Code": "DESOCWCIV2",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361422,
+    "Lecture Title": "Dual Enrollment World Civ. 101",
+    "lecture Code": "DEWCIV1",
+    "Length": 1,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361474,
+    "Lecture Title": "English 10",
+    "lecture Code": "ENG10",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361474,
+    "Lecture Title": "English 10 Honors",
+    "lecture Code": "ENG10H",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5322089,
+    "Lecture Title": "American Literature",
+    "lecture Code": "ENG11",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361474,
+    "Lecture Title": "American Literature Honors",
+    "lecture Code": "ENG11AMLTH-",
+    "Length": 1,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361474,
+    "Lecture Title": "World Literature",
+    "lecture Code": "ENG12WORLD",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361474,
+    "Lecture Title": "World Literature Honors",
+    "lecture Code": "ENG12WORLDH",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5322089,
+    "Lecture Title": "English 9",
+    "lecture Code": "ENG9",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5322089,
+    "Lecture Title": "English 9 Honors",
+    "lecture Code": "ENG9H",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5322089,
+    "Lecture Title": "Speech Communications",
+    "lecture Code": "ENGSPCH",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361400,
+    "Lecture Title": "Faith & Film",
+    "lecture Code": "FAF",
+    "Length": 1,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361400,
+    "Lecture Title": "Faith & Film",
+    "lecture Code": "FAF",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5361461,
+    "Lecture Title": "Financial Literacy",
+    "lecture Code": "FINLIT",
+    "Length": 1,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361461,
+    "Lecture Title": "Financial Literacy",
+    "lecture Code": "FINLIT",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5361540,
+    "Lecture Title": "Spanish I",
+    "lecture Code": "LANSP1",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361540,
+    "Lecture Title": "Spanish I",
+    "lecture Code": "LANSP1",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5361540,
+    "Lecture Title": "Spanish II",
+    "lecture Code": "LANSP2",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361540,
+    "Lecture Title": "Spanish II",
+    "lecture Code": "LANSP2",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5361540,
+    "Lecture Title": "Spanish III",
+    "lecture Code": "LANSP3",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361526,
+    "Lecture Title": "Algebra 1",
+    "lecture Code": "MATALG1",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361526,
+    "Lecture Title": "Algebra 1 Honors",
+    "lecture Code": "MATALG1H",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361380,
+    "Lecture Title": "Algebra II",
+    "lecture Code": "MATALG2",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361420,
+    "Lecture Title": "Algebra II",
+    "lecture Code": "MATALG2",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5407259,
+    "Lecture Title": "Alg II Honors",
+    "lecture Code": "MATALG2H",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361412,
+    "Lecture Title": "AP Calculus A/B",
+    "lecture Code": "MATAPCALCAB",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361412,
+    "Lecture Title": "Dual Enrollment Statistics 152",
+    "lecture Code": "MATDESTATS",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5407259,
+    "Lecture Title": "Geometry",
+    "lecture Code": "MATGEOM",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5407259,
+    "Lecture Title": "Geometry Honors",
+    "lecture Code": "MATGEOMH",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361412,
+    "Lecture Title": "Trig/Algebra III",
+    "lecture Code": "MATHALGIII",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361412,
+    "Lecture Title": "Statistics Honors",
+    "lecture Code": "MATHSTATSH",
+    "Length": 1,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361412,
+    "Lecture Title": "Trig/PreCalculus",
+    "lecture Code": "MATTRIG",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361412,
+    "Lecture Title": "Trig/Pre-Calculus Hon",
+    "lecture Code": "MATTrigH",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361411,
+    "Lecture Title": "Health - High ",
+    "lecture Code": "PEHealthHS",
+    "Length": 1,
+    "Start Term": 1,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5361411,
+    "Lecture Title": "Health - High ",
+    "lecture Code": "PEHealthHS",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361411,
+    "Lecture Title": "Health - High ",
+    "lecture Code": "PEHealthHS",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 3
+  },
+  {
+    "Lecturer ID": 5361411,
+    "Lecture Title": "Physical Education - High ",
+    "lecture Code": "PEHS",
+    "Length": 1,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361411,
+    "Lecture Title": "Physical Education - High ",
+    "lecture Code": "PEHS",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5361411,
+    "Lecture Title": "Personal Fitness",
+    "lecture Code": "PEPF",
+    "Length": 1,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361498,
+    "Lecture Title": "Anatomy & Physiology",
+    "lecture Code": "SCIANATPH",
+    "Length": 1,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361409,
+    "Lecture Title": "Biology",
+    "lecture Code": "SCIBIO",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361409,
+    "Lecture Title": "Biology Honors",
+    "lecture Code": "SCIBIOH",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361498,
+    "Lecture Title": "Chemistry Honors",
+    "lecture Code": "SCICHEM10H",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361498,
+    "Lecture Title": "Chemistry Honors",
+    "lecture Code": "SCICHEM10H",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5361409,
+    "Lecture Title": "Earth and Space Science",
+    "lecture Code": "SCIERTH",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361409,
+    "Lecture Title": "Earth and Space Science",
+    "lecture Code": "SCIERTH",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5361526,
+    "Lecture Title": "Marine Biology",
+    "lecture Code": "SCIMABIO",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361526,
+    "Lecture Title": "Physical Science",
+    "lecture Code": "SCIPHY",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361492,
+    "Lecture Title": "American Government & Politics",
+    "lecture Code": "SOC10GOV",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361492,
+    "Lecture Title": "American Government & Politics",
+    "lecture Code": "SOC10GOV",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5361492,
+    "Lecture Title": "American Government & Politics Honors",
+    "lecture Code": "SOC10GOVH",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361461,
+    "Lecture Title": "World History",
+    "lecture Code": "SOC11",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361492,
+    "Lecture Title": "US History",
+    "lecture Code": "SOC9",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361492,
+    "Lecture Title": "US History",
+    "lecture Code": "SOC9",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5322089,
+    "Lecture Title": "Introduction to Business",
+    "lecture Code": "SOCIB",
+    "Length": 1,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361516,
+    "Lecture Title": "Advanced Robotics",
+    "lecture Code": "TECHADVROB",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361516,
+    "Lecture Title": "Digital Imaging & Editing",
+    "lecture Code": "TECHDIGIT",
+    "Length": 1,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361516,
+    "Lecture Title": "Graphic Design",
+    "lecture Code": "TECHGRAPHIC",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361516,
+    "Lecture Title": "Graphic Design",
+    "lecture Code": "TECHGRAPHIC",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 2
+  },
+  {
+    "Lecturer ID": 5396676,
+    "Lecture Title": "Yearbook",
+    "lecture Code": "TECHYEAR",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361411,
+    "Lecture Title": "Recreational Sports",
+    "lecture Code": "PERS",
+    "Length": 1,
+    "Start Term": 2,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361498,
+    "Lecture Title": "Physics Honors",
+    "lecture Code": "SCIPHYH",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5361516,
+    "Lecture Title": "AP Computer Science",
+    "lecture Code": "APComp",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  },
+  {
+    "Lecturer ID": 5322089,
+    "Lecture Title": "Journalism",
+    "lecture Code": "ENGJOUR",
+    "Length": 2,
+    "Start Term": 1,
+    "Section number": 1
+  }
+]

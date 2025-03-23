@@ -1,0 +1,191 @@
+[
+  {
+    "Length": 0.5,
+    "Priority": "Core_course",
+    "Available blocks": [
+      "1A",
+      "1B",
+      "2A",
+      "2B",
+      "3",
+      "4A",
+      "4B"
+    ],
+    "Unavailable blocks": null,
+    "Minimum section size": 5,
+    "Target section size": 20,
+    "Maximum section size": 26,
+    "Number of sections": 4,
+    "Total credits": 0,
+    "Course Code": "LIVEWELL",
+    "Course Title": "Living_Well"
+  },
+  {
+    "Length": 2,
+    "Priority": "Core_course",
+    "Available blocks": [
+      "1A",
+      "1B",
+      "2A",
+      "2B",
+      "3",
+      "4A",
+      "4B"
+    ],
+    "Unavailable blocks": null,
+    "Minimum section size": 15,
+    "Target section size": 20,
+    "Maximum section size": 26,
+    "Number of sections": 1,
+    "Total credits": 0,
+    "Course Code": "MATFUND",
+    "Course Title": "Fundamental_Math"
+  },
+  {
+    "Length": 2,
+    "Priority": "Core_course",
+    "Available blocks": [
+      "1A",
+      "1B",
+      "2A",
+      "2B",
+      "3",
+      "4A",
+      "4B"
+    ],
+    "Unavailable blocks": null,
+    "Minimum section size": 15,
+    "Target section size": 20,
+    "Maximum section size": 26,
+    "Number of sections": 1,
+    "Total credits": 0,
+    "Course Code": "MATHPreALGH7",
+    "Course Title": "Pre-Algebra_Honors_7"
+  },
+  {
+    "Length": 2,
+    "Priority": "Core_course",
+    "Available blocks": [
+      "1A",
+      "1B",
+      "2A",
+      "2B",
+      "3",
+      "4A",
+      "4B"
+    ],
+    "Unavailable blocks": null,
+    "Minimum section size": 15,
+    "Target section size": 20,
+    "Maximum section size": 26,
+    "Number of sections": 2,
+    "Total credits": 0,
+    "Course Code": "MATPreALG",
+    "Course Title": "Pre-Algebra"
+  },
+  {
+    "Length": 2,
+    "Priority": "Core_course",
+    "Available blocks": [
+      "1A",
+      "1B",
+      "2A",
+      "2B",
+      "3",
+      "4A",
+      "4B"
+    ],
+    "Unavailable blocks": null,
+    "Minimum section size": 15,
+    "Target section size": 22,
+    "Maximum section size": 26,
+    "Number of sections": 2,
+    "Total credits": 0,
+    "Course Code": "MATTRAN",
+    "Course Title": "Transitional_Math"
+  },
+  {
+    "Length": 1,
+    "Priority": "Elective",
+    "Available blocks": [
+      "1A",
+      "1B",
+      "2A",
+      "2B",
+      "3",
+      "4A",
+      "4B"
+    ],
+    "Unavailable blocks": null,
+    "Minimum section size": 7,
+    "Target section size": 20,
+    "Maximum section size": 26,
+    "Number of sections": 0,
+    "Total credits": 0.5,
+    "Course Code": "SOCMODUS",
+    "Course Title": "Modern_America"
+  },
+  {
+    "Length": 2,
+    "Priority": "Core_course",
+    "Available blocks": [
+      "1A",
+      "1B",
+      "2A",
+      "2B",
+      "3",
+      "4A",
+      "4B"
+    ],
+    "Unavailable blocks": null,
+    "Minimum section size": 7,
+    "Target section size": 15,
+    "Maximum section size": 26,
+    "Number of sections": 0,
+    "Total credits": 1,
+    "Course Code": "TECHBRJR",
+    "Course Title": "Broadcast_Journalism"
+  },
+  {
+    "Length": 2,
+    "Priority": "Core_course",
+    "Available blocks": [
+      "1A",
+      "1B",
+      "2A",
+      "2B",
+      "3",
+      "4A",
+      "4B"
+    ],
+    "Unavailable blocks": null,
+    "Minimum section size": 10,
+    "Target section size": 20,
+    "Maximum section size": 26,
+    "Number of sections": 2,
+    "Total credits": null,
+    "Course Code": "MATALG1MS",
+    "Course Title": "Algebra_I_Honors_(MS)"
+  },
+  {
+    "Length": 1,
+    "Priority": "Elective",
+    "Available blocks": [
+      "1A",
+      "1B",
+      "2A",
+      "2B",
+      "3",
+      "4A",
+      "4B"
+    ],
+    "Unavailable blocks": null,
+    "Minimum section size": 7,
+    "Target section size": 15,
+    "Maximum section size": 26,
+    "Number of sections": 0,
+    "Total credits": 0.5,
+    "Course Code": "SOCCONT",
+    "Course Title": "Contemporary_Issues"
+  }
+]

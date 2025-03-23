@@ -1,0 +1,76 @@
+Course code,Title,Length,Priority,Available blocks,Unavailable blocks,Minimum section size,Target section size,Maximum section size,Number of sections,Total credits
+ARTBND,Band - High ,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,25,40,1,1
+ARTChor,Chorus - High ,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,40,1,1
+ARTDRAW,Drawing and Painting,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,15,26,1,1
+ARTSTD1,Studio Art I,1,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,15,26,1,0.5
+ARTSTD2,Studio Art II,1,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,15,26,1,0.5
+BIB10,Bible 10,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,12,20,26,2,1
+BIB11,Bible 11,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,12,20,26,2,1
+BIB12,Bible 12,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,12,20,26,2,1
+BIB9,Bible 9,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,12,20,26,2,1
+DEBIO101,Dual Enrollment Biology 101,1,Core course,2B,"1A, 1B, 2A, 3, 4A, 4B",7,15,26,1,0.5
+DECHEM105,Dual Enrollment Chemistry 105,1,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,15,26,1,0.5
+DEENG101,Dual Enrollment English 101,1,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,0.5
+DEENG151,Dual Enrollment English 151,1,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,0.5
+DEITCHG,Dual Enrollment Intro. to Teaching 201,1,Elective,"1A, 1B, 2A, 2B, 3, 4A, 4B",,5,15,26,1,0.5
+DESOCIP,Dual Enrollment Intro. to Psych. 101,1,Elective,"1A, 1B, 2A, 2B, 3, 4A, 4B",,5,15,26,1,0.5
+DESOCWCIV2,Dual Enrollment World Civ. 151,1,Core course,"2A, 2B","1A, 1B, 3, 4A, 4B",7,20,26,1,0.5
+DEWCIV1,Dual Enrollment World Civ. 101,1,Core course,"2A, 2B","1A, 1B, 3, 4A, 4B",7,20,26,1,0.5
+ENG10,English 10,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+ENG10H,English 10 Honors,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+ENG11,American Literature,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,12,20,26,1,1
+ENG11AMLTH-,American Literature Honors,1,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,0.5
+ENG12WORLD,World Literature,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+ENG12WORLDH,World Literature Honors,1,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,0.5
+ENG9,English 9,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+ENG9H,English 9 Honors,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+ENGSPCH,Speech Communications,1,Elective,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,15,26,1,0.5
+FAF,Faith & Film,1,Elective,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,15,20,2,0.5
+FINLIT,Financial Literacy,1,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,2,0.5
+LANSP1,Spanish I,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,2,1
+LANSP2,Spanish II,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,2,1
+LANSP3,Spanish III,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,15,26,1,1
+LIVEWELL,Living Well,0.5,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,5,20,26,4,0
+MATALG1,Algebra 1,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+MATALG1H,Algebra 1 Honors,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+MATALG2,Algebra II,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,2,1
+MATALG2H,Alg II Honors,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+MATAPCALCAB,AP Calculus A/B,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,3,15,26,1,1
+MATDESTATS,Dual Enrollment Statistics 152,1,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,0.5
+MATFUND,Fundamental Math,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,15,20,26,1,0
+MATGEOM,Geometry,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+MATGEOMH,Geometry Honors,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+MATHALGIII,Trig/Algebra III,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+MATHPreALGH7,Pre-Algebra Honors 7,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,15,20,26,1,0
+MATHSTATSH,Statistics Honors,1,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,0.5
+MATPreALG,Pre-Algebra,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,15,20,26,2,0
+MATTRAN,Transitional Math,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,15,22,26,2,0
+MATTRIG,Trig/PreCalculus,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+MATTrigH,Trig/Pre-Calculus Hon,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+PEHealthHS,Health - High ,1,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,3,0.5
+PEHS,Physical Education - High ,1,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,2,0.5
+PEPF,Personal Fitness,1,Elective,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,0.5
+SCIANATPH,Anatomy & Physiology,1,Elective,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,0.5
+SCIBIO,Biology,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+SCIBIOH,Biology Honors,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+SCICHEM10H,Chemistry Honors,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,2,1
+SCIERTH,Earth and Space Science,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,2,1
+SCIMABIO,Marine Biology,1,Elective,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,15,26,1,0.5
+SCIPHY,Physical Science,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+SOC10GOV,American Government & Politics,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,2,1
+SOC10GOVH,American Government & Politics Honors,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+SOC11,World History,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,1
+SOC9,US History,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,2,1
+SOCIB,Introduction to Business,1,Elective,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,0.5
+TECHADVROB,Advanced Robotics,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,15,26,1,1
+TECHDIGIT,Digital Imaging & Editing,1,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,15,26,1,0.5
+TECHGRAPHIC,Graphic Design,1,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,2,0.5
+TECHYEAR,Yearbook,2,Elective,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,15,26,1,1
+PERS,Recreational Sports,1,Elective,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,1,0.5
+SCIPHYH,Physics Honors,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,15,26,1,1
+SOCMODUS,Modern America,1,Elective,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,20,26,0,0.5
+TECHBRJR,Broadcast Journalism,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,15,26,0,1
+MATALG1MS,Algebra I Honors (MS),2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,10,20,26,2,
+APComp,AP Computer Science,2,Core course,"1A, 1B, 2A, 2B, 3, 4A, 4B",,3,15,20,1,1
+ENGJOUR,Journalism,2,Elective,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,15,26,1,1
+SOCCONT,Contemporary Issues,1,Elective,"1A, 1B, 2A, 2B, 3, 4A, 4B",,7,15,26,0,0.5

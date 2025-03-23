@@ -1,0 +1,79 @@
+[
+  {
+    "S. No.": 1,
+    "RULES": [
+      "The_has_N_number_of_blocks_-_namely_:_[\"1A\"",
+      "\"1B\"",
+      "\"2A\"",
+      "\"2B\"",
+      "\"3\"",
+      "\"4A\"",
+      "\"4B\"]"
+    ]
+  },
+  {
+    "S. No.": 2,
+    "RULES": [
+      "Blocks_refer_to_fixed_time_periods_or_chunks_of_time_during_the_day_when_specific_classes_or_activities_are_scheduled._Unlike_traditional_period-based_systems_(common_in_countries_like_India",
+      "where_the_day_is_divided_into_short",
+      "equal_periods_like_\"Period_1",
+      "\"_\"Period_2",
+      "\"_etc.)",
+      "block_scheduling_organizes_the_day_into_longer",
+      "continuous_time_segments_called_Blocks._Each_block_typically_lasts_between_60_to_120_minutes",
+      "depending_on_the_'s_structure._For_example",
+      "a_might_have_four_blocks_in_a_day:_1._Block_1A:_8:00_AM_-_9:30_AM_2._Block_1B:_9:45_AM_-_11:15_AM_3._Block_2A:_11:30_AM_-_1:00_PM_4._Block_2B:_1:30_PM_-_3:00_PM_Each_block_is_assigned_to_specific_subjects",
+      "activities",
+      "or_courses._For_instance",
+      "Block_1A_might_be_reserved_for_Mathematics",
+      "while_Block_1B_could_be_for_Science._This_system_allows_for_more_focused_and_immersive_learning_experiences",
+      "as_students_spend_longer_periods_on_fewer_subjects_each_day._In_the_context_of_Crestwood_High",
+      "blocks_were_essential_for_scheduling_courses_like_Chorus_-_High_and_Band_-_High",
+      "ensuring_that_students_like_Emily_and_Liam_could_pursue_their_interests_without_conflicts."
+    ]
+  },
+  {
+    "S. No.": 3,
+    "RULES": "No_teacher_can_be_present_twice_in_same_block"
+  },
+  {
+    "S. No.": 4,
+    "RULES": "No_student_can_be_present_twice_in_same_block"
+  },
+  {
+    "S. No.": 5,
+    "RULES": "You_need_to_assign_student_to_section_of_the_requested_course_in_a_particular_block_so_that_we_maximize_the_number_of_resolutions_of_students_requests_received"
+  },
+  {
+    "S. No.": 6,
+    "RULES": "Students_of_different_year_can_be_assigned_to_same_sections_if_they_have_requested_for_the_same_course_"
+  },
+  {
+    "S. No.": 7,
+    "RULES": "No_sections_should_be_overcrowded_-_distribute_the_course_requested_students_almost_equally_across_the_available_sections_of_that_particular_course"
+  },
+  {
+    "S. No.": 8,
+    "RULES": [
+      "\"Required\"_>_\"Requested\"_>_\"Recommended\"",
+      "this_is_the_order_of_priority_of_requests",
+      "treat_it_as_P1",
+      "P2",
+      "P3"
+    ]
+  },
+  {
+    "S. No.": 9,
+    "RULES": [
+      "Available_blocks_&_Unavailable_blocks_columns_in_Course_list_are_exactly_what_they_sound_like",
+      "you_can_schedule_sections_of_those_courses_only_in_one_of_the_blocks_available_in_`Available_Blocks`_list"
+    ]
+  },
+  {
+    "S. No.": 10,
+    "RULES": [
+      "Length_/_Course_Length_(1_=_One_Term",
+      "2_=_Full_Year)_/_Credits_determine_if_the_course_will_run_for_the_entire_year_or_Half_a_year"
+    ]
+  }
+]
