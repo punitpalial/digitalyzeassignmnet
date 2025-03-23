@@ -314,44 +314,68 @@ def solve_and_generate_schedules(model, courses_df, lecturers_df, requests_df, a
     
     print("Extracting student schedules...")
     # Extract student schedules
+    # Extracting student schedules
+    print("Extracting student schedules...")
+    student_schedules = {}
     for var in model.variables():
-        if var.name.startswith('x_') and var.value() > 0.9:  # Use 0.9 threshold to handle floating-point precision
+        # Only consider x variables (student assignments) with value 1
+        if var.name.startswith('x_') and var.value() == 1:
+            # Parse variable name to extract components
+            # Format: x_student_course-code_section-number_block
             parts = var.name.split('_')
             if len(parts) >= 4:  # Ensure we have enough parts
                 student = parts[1]
-                # Handle section names that might contain underscores
-                section = '_'.join(parts[2:-1])
+                section = '_'.join(parts[2:-1])  # Handle course codes that might contain underscores
                 block = parts[-1]
                 
-                course_code = section.split('_')[0]
-                section_num = section.split('_')[1]
-                
-                if student not in student_schedules:
-                    student_schedules[student] = []
-                
-                # Get course information
-                course_title = "Unknown"
-                course_row = courses_df[courses_df["Course Code"] == course_code]
-                if not course_row.empty:
-                    course_title = course_row["Course Title"].values[0]
-                
-                # Get professor information
-                professor_id = "Unknown"
-                lecturer_row = lecturers_df[
-                    (lecturers_df["Course Code"] == course_code) & 
-                    (lecturers_df["Section Number"] == int(section_num))
-                ]
-                if not lecturer_row.empty:
-                    professor_id = lecturer_row["Prof ID"].values[0]
-                
-                student_schedules[student].append({
-                    "Student ID": student,
-                    "Course Code": course_code,
-                    "Course Title": course_title,
-                    "Section": section_num,
-                    "Block": block,
-                    "Professor ID": professor_id
-                })
+                # Extract course code and section number
+                section_parts = section.split('_')
+                if len(section_parts) >= 2:
+                    course_code = '_'.join(section_parts[:-1])  # Handle course codes with underscores
+                    section_num = section_parts[-1]
+                    
+                    # Initialize student entry if not exists
+                    if student not in student_schedules:
+                        student_schedules[student] = []
+                    
+                    # Get course title from courses dataframe
+                    course_title = courses_df.loc[
+                        courses_df["Course Code"] == course_code, 
+                        "Course Title"
+                    ].values[0] if len(courses_df.loc[courses_df["Course Code"] == course_code]) > 0 else "Unknown Course"
+                    
+                    # Find the professor for this section with error handling
+                    try:
+                        # Convert section_num to int only if it's not empty
+                        if section_num:
+                            section_num_int = int(section_num)
+                            professor_query = lecturers_df[
+                                (lecturers_df["Course Code"] == course_code) & 
+                                (lecturers_df["Section Number"] == section_num_int)
+                            ]
+                        else:
+                            # Handle case where section_num is empty
+                            professor_query = lecturers_df[
+                                (lecturers_df["Course Code"] == course_code)
+                            ]
+                        
+                        if len(professor_query) > 0:
+                            professor_id = professor_query["Prof ID"].values[0]
+                        else:
+                            professor_id = "Unknown"
+                    except (ValueError, IndexError):
+                        # Handle conversion errors or empty results
+                        professor_id = "Unknown"
+                    
+                    # Add course to student schedule
+                    student_schedules[student].append({
+                        "Student ID": student,
+                        "Course Code": course_code,
+                        "Course Title": course_title,
+                        "Section": section_num,
+                        "Block": block,
+                        "Professor ID": professor_id
+                    })
     
     print("Extracting professor schedules...")
     # Extract professor schedules
@@ -441,7 +465,56 @@ def solve_and_generate_schedules(model, courses_df, lecturers_df, requests_df, a
     
     # with open("professor_schedules.json", "w") as f:
     #     json.dump(professor_schedules, f, indent=2)
-    
+
+    # Create a table for resolved & unresolved requests
+    stats_data = {
+        "Priority": ["Required", "Requested", "Recommended", "Total"],
+        "Total Requests": [total_required, total_requested, total_recommended, total_requests],
+        "Fulfilled": [fulfilled_required, fulfilled_requested, fulfilled_recommended, 
+                    fulfilled_required + fulfilled_requested + fulfilled_recommended],
+        "Unfulfilled": [total_required - fulfilled_required, 
+                    total_requested - fulfilled_requested,
+                    total_recommended - fulfilled_recommended,
+                    total_requests - (fulfilled_required + fulfilled_requested + fulfilled_recommended)],
+        "Fulfillment Rate (%)": [fulfilled_required/max(1,total_required)*100,
+                                fulfilled_requested/max(1,total_requested)*100,
+                                fulfilled_recommended/max(1,total_recommended)*100,
+                                (fulfilled_required + fulfilled_requested + fulfilled_recommended)/total_requests*100]
+    }
+
+    # Save as CSV
+    stats_df = pd.DataFrame(stats_data)
+    stats_df.to_csv("request_fulfillment_statistics.csv", index=False)
+    print("Request fulfillment statistics saved to request_fulfillment_statistics.csv")
+
+    # Identify students with unfulfilled required requests
+    unfulfilled_required_requests = []
+    for _, request in requests_df[requests_df["Type"] == "Required"].iterrows():
+        student_id = request["Student ID"]
+        course_code = request["Course Code"]
+        
+        # Check if this student has this course in their schedule
+        if str(student_id) in student_schedules:
+            student_courses = {schedule["Course Code"] for schedule in student_schedules[str(student_id)]}
+            if course_code not in student_courses:
+                unfulfilled_required_requests.append({
+                    "Student ID": student_id,
+                    "Course Code": course_code,
+                    "Course Title": request["Course Title"]
+                })
+        else:
+            # Student not scheduled at all
+            unfulfilled_required_requests.append({
+                "Student ID": student_id,
+                "Course Code": course_code,
+                "Course Title": request["Course Title"]
+            })
+
+    # Save as CSV
+    if unfulfilled_required_requests:
+        pd.DataFrame(unfulfilled_required_requests).to_csv("unfulfilled_required_requests.csv", index=False)
+        print(f"WARNING: {len(unfulfilled_required_requests)} required requests could not be fulfilled.")
+        
     # Print detailed statistics
     print("\n===== SCHEDULING STATISTICS =====")
     print(f"Total student requests: {total_requests}")
@@ -454,6 +527,8 @@ def solve_and_generate_schedules(model, courses_df, lecturers_df, requests_df, a
     print(f"Overall fulfillment rate: {(fulfilled_required + fulfilled_requested + fulfilled_recommended)/total_requests*100:.2f}%")
     
     return student_schedules, professor_schedules
+
+
 
 def main():
     """
